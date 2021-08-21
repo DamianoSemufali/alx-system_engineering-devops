@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1629522337,,"wq"
+|2,0,1629524564,,"wq"
 :q
 |2,0,1629494397,,"q"
 
@@ -30,235 +30,256 @@
 |3,1,36,2,1,0,1629494919,"i"
 
 # File marks:
-'0  1  30  ~/.git/COMMIT_EDITMSG
-|4,48,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
-'1  1  34  ~/.git/COMMIT_EDITMSG
-|4,49,1,34,1629522146,"~/.git/COMMIT_EDITMSG"
-'2  2  3  ~/0x00-shell_basics/0-current_working_directory
-|4,50,2,3,1629520942,"~/0x00-shell_basics/0-current_working_directory"
-'3  1  34  ~/.git/COMMIT_EDITMSG
-|4,51,1,34,1629520802,"~/.git/COMMIT_EDITMSG"
-'4  1  34  ~/.git/COMMIT_EDITMSG
-|4,52,1,34,1629520802,"~/.git/COMMIT_EDITMSG"
-'5  1  0  ~/.git/COMMIT_EDITMSG
-|4,53,1,0,1629520698,"~/.git/COMMIT_EDITMSG"
-'6  1  0  ~/.git/COMMIT_EDITMSG
-|4,54,1,0,1629520698,"~/.git/COMMIT_EDITMSG"
-'7  1  0  ~/.git/COMMIT_EDITMSG
-|4,55,1,0,1629520698,"~/.git/COMMIT_EDITMSG"
-'8  1  0  ~/.git/COMMIT_EDITMSG
-|4,56,1,0,1629520698,"~/.git/COMMIT_EDITMSG"
-'9  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,57,3,0,1629520120,"~/0x00-shell_basics/0-current_working_directory"
+'0  2  4  ~/0x00-shell_basics/3-listfiles
+|4,48,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+'1  2  4  ~/0x00-shell_basics/3-listfiles
+|4,49,2,4,1629523883,"~/0x00-shell_basics/3-listfiles"
+'2  2  1  ~/0x00-shell_basics/2-bring_me_home
+|4,50,2,1,1629523571,"~/0x00-shell_basics/2-bring_me_home"
+'3  2  1  ~/0x00-shell_basics/1-listit
+|4,51,2,1,1629523375,"~/0x00-shell_basics/1-listit"
+'4  2  1  ~/0x00-shell_basics/1-listit
+|4,52,2,1,1629523078,"~/0x00-shell_basics/1-listit"
+'5  1  12  ~/.git/COMMIT_EDITMSG
+|4,53,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+'6  1  30  ~/.git/COMMIT_EDITMSG
+|4,54,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
+'7  1  34  ~/.git/COMMIT_EDITMSG
+|4,55,1,34,1629522146,"~/.git/COMMIT_EDITMSG"
+'8  1  34  ~/.git/COMMIT_EDITMSG
+|4,56,1,34,1629522146,"~/.git/COMMIT_EDITMSG"
+'9  2  3  ~/0x00-shell_basics/0-current_working_directory
+|4,57,2,3,1629520942,"~/0x00-shell_basics/0-current_working_directory"
 
 # Jumplist (newest first):
+-'  2  4  ~/0x00-shell_basics/3-listfiles
+|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+-'  2  4  ~/0x00-shell_basics/3-listfiles
+|4,39,2,4,1629523883,"~/0x00-shell_basics/3-listfiles"
+-'  1  0  ~/0x00-shell_basics/3-listfiles
+|4,39,1,0,1629523858,"~/0x00-shell_basics/3-listfiles"
+-'  1  0  ~/0x00-shell_basics/3-listfiles
+|4,39,1,0,1629523858,"~/0x00-shell_basics/3-listfiles"
+-'  2  1  ~/0x00-shell_basics/2-bring_me_home
+|4,39,2,1,1629523571,"~/0x00-shell_basics/2-bring_me_home"
+-'  2  1  ~/0x00-shell_basics/2-bring_me_home
+|4,39,2,1,1629523571,"~/0x00-shell_basics/2-bring_me_home"
+-'  2  1  ~/0x00-shell_basics/2-bring_me_home
+|4,39,2,1,1629523571,"~/0x00-shell_basics/2-bring_me_home"
+-'  2  1  ~/0x00-shell_basics/2-bring_me_home
+|4,39,2,1,1629523571,"~/0x00-shell_basics/2-bring_me_home"
+-'  1  0  ~/0x00-shell_basics/2-bring_me_home
+|4,39,1,0,1629523535,"~/0x00-shell_basics/2-bring_me_home"
+-'  1  0  ~/0x00-shell_basics/2-bring_me_home
+|4,39,1,0,1629523535,"~/0x00-shell_basics/2-bring_me_home"
+-'  1  0  ~/0x00-shell_basics/2-bring_me_home
+|4,39,1,0,1629523535,"~/0x00-shell_basics/2-bring_me_home"
+-'  1  0  ~/0x00-shell_basics/2-bring_me_home
+|4,39,1,0,1629523535,"~/0x00-shell_basics/2-bring_me_home"
+-'  2  1  ~/0x00-shell_basics/1-listit
+|4,39,2,1,1629523375,"~/0x00-shell_basics/1-listit"
+-'  2  1  ~/0x00-shell_basics/1-listit
+|4,39,2,1,1629523375,"~/0x00-shell_basics/1-listit"
+-'  2  1  ~/0x00-shell_basics/1-listit
+|4,39,2,1,1629523375,"~/0x00-shell_basics/1-listit"
+-'  2  1  ~/0x00-shell_basics/1-listit
+|4,39,2,1,1629523375,"~/0x00-shell_basics/1-listit"
+-'  2  1  ~/0x00-shell_basics/1-listit
+|4,39,2,1,1629523375,"~/0x00-shell_basics/1-listit"
+-'  2  1  ~/0x00-shell_basics/1-listit
+|4,39,2,1,1629523375,"~/0x00-shell_basics/1-listit"
+-'  2  1  ~/0x00-shell_basics/1-listit
+|4,39,2,1,1629523375,"~/0x00-shell_basics/1-listit"
+-'  2  1  ~/0x00-shell_basics/1-listit
+|4,39,2,1,1629523375,"~/0x00-shell_basics/1-listit"
+-'  2  1  ~/0x00-shell_basics/1-listit
+|4,39,2,1,1629523078,"~/0x00-shell_basics/1-listit"
+-'  2  1  ~/0x00-shell_basics/1-listit
+|4,39,2,1,1629523078,"~/0x00-shell_basics/1-listit"
+-'  2  1  ~/0x00-shell_basics/1-listit
+|4,39,2,1,1629523078,"~/0x00-shell_basics/1-listit"
+-'  2  1  ~/0x00-shell_basics/1-listit
+|4,39,2,1,1629523078,"~/0x00-shell_basics/1-listit"
+-'  2  1  ~/0x00-shell_basics/1-listit
+|4,39,2,1,1629523078,"~/0x00-shell_basics/1-listit"
+-'  2  1  ~/0x00-shell_basics/1-listit
+|4,39,2,1,1629523078,"~/0x00-shell_basics/1-listit"
+-'  2  1  ~/0x00-shell_basics/1-listit
+|4,39,2,1,1629523078,"~/0x00-shell_basics/1-listit"
+-'  2  1  ~/0x00-shell_basics/1-listit
+|4,39,2,1,1629523078,"~/0x00-shell_basics/1-listit"
+-'  1  0  ~/0x00-shell_basics/1-listit
+|4,39,1,0,1629523054,"~/0x00-shell_basics/1-listit"
+-'  1  0  ~/0x00-shell_basics/1-listit
+|4,39,1,0,1629523054,"~/0x00-shell_basics/1-listit"
+-'  1  0  ~/0x00-shell_basics/1-listit
+|4,39,1,0,1629523054,"~/0x00-shell_basics/1-listit"
+-'  1  0  ~/0x00-shell_basics/1-listit
+|4,39,1,0,1629523054,"~/0x00-shell_basics/1-listit"
+-'  1  0  ~/0x00-shell_basics/1-listit
+|4,39,1,0,1629523054,"~/0x00-shell_basics/1-listit"
+-'  1  0  ~/0x00-shell_basics/1-listit
+|4,39,1,0,1629523054,"~/0x00-shell_basics/1-listit"
+-'  1  0  ~/0x00-shell_basics/1-listit
+|4,39,1,0,1629523054,"~/0x00-shell_basics/1-listit"
+-'  1  0  ~/0x00-shell_basics/1-listit
+|4,39,1,0,1629523054,"~/0x00-shell_basics/1-listit"
+-'  1  0  ~/0x00-shell_basics/1-listit
+|4,39,1,0,1629523054,"~/0x00-shell_basics/1-listit"
+-'  1  0  ~/0x00-shell_basics/1-listit
+|4,39,1,0,1629523054,"~/0x00-shell_basics/1-listit"
+-'  1  0  ~/0x00-shell_basics/1-listit
+|4,39,1,0,1629523054,"~/0x00-shell_basics/1-listit"
+-'  1  0  ~/0x00-shell_basics/1-listit
+|4,39,1,0,1629523054,"~/0x00-shell_basics/1-listit"
+-'  1  0  ~/0x00-shell_basics/1-listit
+|4,39,1,0,1629523054,"~/0x00-shell_basics/1-listit"
+-'  1  0  ~/0x00-shell_basics/1-listit
+|4,39,1,0,1629523054,"~/0x00-shell_basics/1-listit"
+-'  1  0  ~/0x00-shell_basics/1-listit
+|4,39,1,0,1629523054,"~/0x00-shell_basics/1-listit"
+-'  1  0  ~/0x00-shell_basics/1-listit
+|4,39,1,0,1629523054,"~/0x00-shell_basics/1-listit"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629522557,"~/.git/COMMIT_EDITMSG"
 -'  1  30  ~/.git/COMMIT_EDITMSG
 |4,39,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
--'  1  34  ~/.git/COMMIT_EDITMSG
-|4,39,1,34,1629522146,"~/.git/COMMIT_EDITMSG"
--'  2  3  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,3,1629520942,"~/0x00-shell_basics/0-current_working_directory"
--'  2  3  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,3,1629520942,"~/0x00-shell_basics/0-current_working_directory"
--'  2  3  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,3,1629520942,"~/0x00-shell_basics/0-current_working_directory"
--'  2  3  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,3,1629520942,"~/0x00-shell_basics/0-current_working_directory"
--'  1  34  ~/.git/COMMIT_EDITMSG
-|4,39,1,34,1629520802,"~/.git/COMMIT_EDITMSG"
--'  1  34  ~/.git/COMMIT_EDITMSG
-|4,39,1,34,1629520802,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1629520698,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1629520698,"~/.git/COMMIT_EDITMSG"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629520120,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629520120,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629520120,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629520120,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629520120,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629520120,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629520120,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629520120,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629520120,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629520120,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629520120,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629520120,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629520120,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629520120,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629520120,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629520120,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629520102,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629520102,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629520102,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629520102,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629520102,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629520102,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629520102,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629520102,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629520102,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629520102,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629520102,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629520102,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629520102,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629520102,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629520102,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629520102,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629519934,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629519934,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629519934,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629519934,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629519934,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629519934,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629519934,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629519934,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629519934,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629519934,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629519934,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629519934,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629519934,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629519934,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629519934,"~/0x00-shell_basics/0-current_working_directory"
--'  2  32  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,32,1629519934,"~/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629519744,"~/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629519744,"~/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629519744,"~/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629519744,"~/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629519744,"~/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629519744,"~/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629519744,"~/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629519744,"~/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629519744,"~/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629519744,"~/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629519744,"~/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629519744,"~/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629519744,"~/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629519744,"~/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629519744,"~/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629519744,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629519473,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629519473,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629519473,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629519473,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629519473,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629519473,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629519473,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629519473,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629519473,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629519473,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629519473,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629519473,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629519473,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629519473,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629519473,"~/0x00-shell_basics/0-current_working_directory"
--'  3  0  ~/0x00-shell_basics/0-current_working_directory
-|4,39,3,0,1629519473,"~/0x00-shell_basics/0-current_working_directory"
--'  1  10  ~/0x00-shell_basics/0-current_working_directory
-|4,39,1,10,1629519449,"~/0x00-shell_basics/0-current_working_directory"
--'  1  10  ~/0x00-shell_basics/0-current_working_directory
-|4,39,1,10,1629519449,"~/0x00-shell_basics/0-current_working_directory"
--'  1  10  ~/0x00-shell_basics/0-current_working_directory
-|4,39,1,10,1629519449,"~/0x00-shell_basics/0-current_working_directory"
--'  1  10  ~/0x00-shell_basics/0-current_working_directory
-|4,39,1,10,1629519449,"~/0x00-shell_basics/0-current_working_directory"
--'  1  10  ~/0x00-shell_basics/0-current_working_directory
-|4,39,1,10,1629519449,"~/0x00-shell_basics/0-current_working_directory"
--'  1  10  ~/0x00-shell_basics/0-current_working_directory
-|4,39,1,10,1629519449,"~/0x00-shell_basics/0-current_working_directory"
--'  1  10  ~/0x00-shell_basics/0-current_working_directory
-|4,39,1,10,1629519449,"~/0x00-shell_basics/0-current_working_directory"
--'  1  10  ~/0x00-shell_basics/0-current_working_directory
-|4,39,1,10,1629519449,"~/0x00-shell_basics/0-current_working_directory"
--'  1  10  ~/0x00-shell_basics/0-current_working_directory
-|4,39,1,10,1629519449,"~/0x00-shell_basics/0-current_working_directory"
--'  1  10  ~/0x00-shell_basics/0-current_working_directory
-|4,39,1,10,1629519449,"~/0x00-shell_basics/0-current_working_directory"
+-'  1  30  ~/.git/COMMIT_EDITMSG
+|4,39,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
+-'  1  30  ~/.git/COMMIT_EDITMSG
+|4,39,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
+-'  1  30  ~/.git/COMMIT_EDITMSG
+|4,39,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
+-'  1  30  ~/.git/COMMIT_EDITMSG
+|4,39,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
+-'  1  30  ~/.git/COMMIT_EDITMSG
+|4,39,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
+-'  1  30  ~/.git/COMMIT_EDITMSG
+|4,39,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
+-'  1  30  ~/.git/COMMIT_EDITMSG
+|4,39,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
+-'  1  30  ~/.git/COMMIT_EDITMSG
+|4,39,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
+-'  1  30  ~/.git/COMMIT_EDITMSG
+|4,39,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
+-'  1  30  ~/.git/COMMIT_EDITMSG
+|4,39,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
+-'  1  30  ~/.git/COMMIT_EDITMSG
+|4,39,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
+-'  1  30  ~/.git/COMMIT_EDITMSG
+|4,39,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
+-'  1  30  ~/.git/COMMIT_EDITMSG
+|4,39,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
+-'  1  30  ~/.git/COMMIT_EDITMSG
+|4,39,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
+-'  1  30  ~/.git/COMMIT_EDITMSG
+|4,39,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
+-'  1  30  ~/.git/COMMIT_EDITMSG
+|4,39,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
+-'  1  30  ~/.git/COMMIT_EDITMSG
+|4,39,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
+-'  1  30  ~/.git/COMMIT_EDITMSG
+|4,39,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
+-'  1  30  ~/.git/COMMIT_EDITMSG
+|4,39,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
+-'  1  30  ~/.git/COMMIT_EDITMSG
+|4,39,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
+-'  1  30  ~/.git/COMMIT_EDITMSG
+|4,39,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
+-'  1  30  ~/.git/COMMIT_EDITMSG
+|4,39,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
+-'  1  30  ~/.git/COMMIT_EDITMSG
+|4,39,1,30,1629522337,"~/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
 
+> ~/0x00-shell_basics/3-listfiles
+	*	1629524561	0
+	"	2	4
+	^	2	5
+	.	2	4
+	+	2	4
+
+> ~/0x00-shell_basics/2-bring_me_home
+	*	1629523568	0
+	"	2	1
+	^	2	2
+	.	2	2
+	+	2	2
+
+> ~/0x00-shell_basics/1-listit
+	*	1629523372	0
+	"	2	1
+	^	2	2
+	.	2	1
+	+	2	1
+
 > ~/.git/COMMIT_EDITMSG
-	*	1629522335	0
-	"	1	30
-	^	1	31
+	*	1629522553	0
+	"	1	12
+	^	1	13
 	.	2	0
 	+	1	34
 	+	2	0
