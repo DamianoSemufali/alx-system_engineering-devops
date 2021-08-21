@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1629544427,,"wq"
+|2,0,1629545322,,"wq"
+:Wq
+|2,0,1629545153,,"Wq"
 :q
 |2,0,1629494397,,"q"
 
@@ -30,34 +32,76 @@
 |3,1,36,2,1,0,1629494919,"i"
 
 # File marks:
-'0  1  10  ~/0x00-shell_basics/7-movethatfile
-|4,48,1,10,1629544427,"~/0x00-shell_basics/7-movethatfile"
-'1  2  27  ~/0x00-shell_basics/7-movethatfile
-|4,49,2,27,1629544372,"~/0x00-shell_basics/7-movethatfile"
-'2  3  27  ~/0x00-shell_basics/7-movethatfile
-|4,50,3,27,1629544372,"~/0x00-shell_basics/7-movethatfile"
-'3  1  26  ~/.git/COMMIT_EDITMSG
-|4,51,1,26,1629544212,"~/.git/COMMIT_EDITMSG"
-'4  2  28  ~/0x00-shell_basics/6-firstdirectory
-|4,52,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
-'5  1  0  ~/.git/COMMIT_EDITMSG
-|4,53,1,0,1629526633,"~/.git/COMMIT_EDITMSG"
-'6  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,54,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
-'7  1  12  ~/.git/COMMIT_EDITMSG
-|4,55,1,12,1629526174,"~/.git/COMMIT_EDITMSG"
-'8  1  12  ~/.git/COMMIT_EDITMSG
-|4,56,1,12,1629526174,"~/.git/COMMIT_EDITMSG"
-'9  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,57,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
+'0  2  13  ~/0x00-shell_basics/7-movethatfile
+|4,48,2,13,1629545322,"~/0x00-shell_basics/7-movethatfile"
+'1  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,49,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+'2  1  26  ~/.git/COMMIT_EDITMSG
+|4,50,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
+'3  1  10  ~/0x00-shell_basics/7-movethatfile
+|4,51,1,10,1629544427,"~/0x00-shell_basics/7-movethatfile"
+'4  1  10  ~/0x00-shell_basics/7-movethatfile
+|4,52,1,10,1629544427,"~/0x00-shell_basics/7-movethatfile"
+'5  3  27  ~/0x00-shell_basics/7-movethatfile
+|4,53,3,27,1629544372,"~/0x00-shell_basics/7-movethatfile"
+'6  2  27  ~/0x00-shell_basics/7-movethatfile
+|4,54,2,27,1629544372,"~/0x00-shell_basics/7-movethatfile"
+'7  3  27  ~/0x00-shell_basics/7-movethatfile
+|4,55,3,27,1629544372,"~/0x00-shell_basics/7-movethatfile"
+'8  1  26  ~/.git/COMMIT_EDITMSG
+|4,56,1,26,1629544212,"~/.git/COMMIT_EDITMSG"
+'9  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,57,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
 
 # Jumplist (newest first):
+-'  2  13  ~/0x00-shell_basics/7-movethatfile
+|4,39,2,13,1629545322,"~/0x00-shell_basics/7-movethatfile"
+-'  1  10  ~/0x00-shell_basics/7-movethatfile
+|4,39,1,10,1629545311,"~/0x00-shell_basics/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  26  ~/.git/COMMIT_EDITMSG
+|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
+-'  1  26  ~/.git/COMMIT_EDITMSG
+|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
+-'  1  26  ~/.git/COMMIT_EDITMSG
+|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
+-'  1  26  ~/.git/COMMIT_EDITMSG
+|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
+-'  1  10  ~/0x00-shell_basics/7-movethatfile
+|4,39,1,10,1629544427,"~/0x00-shell_basics/7-movethatfile"
+-'  1  10  ~/0x00-shell_basics/7-movethatfile
+|4,39,1,10,1629544427,"~/0x00-shell_basics/7-movethatfile"
+-'  1  10  ~/0x00-shell_basics/7-movethatfile
+|4,39,1,10,1629544427,"~/0x00-shell_basics/7-movethatfile"
 -'  1  10  ~/0x00-shell_basics/7-movethatfile
 |4,39,1,10,1629544427,"~/0x00-shell_basics/7-movethatfile"
 -'  2  27  ~/0x00-shell_basics/7-movethatfile
 |4,39,2,27,1629544403,"~/0x00-shell_basics/7-movethatfile"
+-'  2  27  ~/0x00-shell_basics/7-movethatfile
+|4,39,2,27,1629544403,"~/0x00-shell_basics/7-movethatfile"
+-'  2  27  ~/0x00-shell_basics/7-movethatfile
+|4,39,2,27,1629544403,"~/0x00-shell_basics/7-movethatfile"
+-'  2  27  ~/0x00-shell_basics/7-movethatfile
+|4,39,2,27,1629544403,"~/0x00-shell_basics/7-movethatfile"
 -'  3  27  ~/0x00-shell_basics/7-movethatfile
 |4,39,3,27,1629544372,"~/0x00-shell_basics/7-movethatfile"
+-'  3  27  ~/0x00-shell_basics/7-movethatfile
+|4,39,3,27,1629544372,"~/0x00-shell_basics/7-movethatfile"
+-'  3  27  ~/0x00-shell_basics/7-movethatfile
+|4,39,3,27,1629544372,"~/0x00-shell_basics/7-movethatfile"
+-'  3  27  ~/0x00-shell_basics/7-movethatfile
+|4,39,3,27,1629544372,"~/0x00-shell_basics/7-movethatfile"
+-'  3  27  ~/0x00-shell_basics/7-movethatfile
+|4,39,3,27,1629544372,"~/0x00-shell_basics/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/7-movethatfile
+|4,39,1,0,1629544303,"~/0x00-shell_basics/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/7-movethatfile
+|4,39,1,0,1629544303,"~/0x00-shell_basics/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/7-movethatfile
+|4,39,1,0,1629544303,"~/0x00-shell_basics/7-movethatfile"
 -'  1  0  ~/0x00-shell_basics/7-movethatfile
 |4,39,1,0,1629544303,"~/0x00-shell_basics/7-movethatfile"
 -'  1  26  ~/.git/COMMIT_EDITMSG
@@ -68,6 +112,30 @@
 |4,39,1,26,1629544212,"~/.git/COMMIT_EDITMSG"
 -'  1  26  ~/.git/COMMIT_EDITMSG
 |4,39,1,26,1629544212,"~/.git/COMMIT_EDITMSG"
+-'  1  26  ~/.git/COMMIT_EDITMSG
+|4,39,1,26,1629544212,"~/.git/COMMIT_EDITMSG"
+-'  1  26  ~/.git/COMMIT_EDITMSG
+|4,39,1,26,1629544212,"~/.git/COMMIT_EDITMSG"
+-'  1  26  ~/.git/COMMIT_EDITMSG
+|4,39,1,26,1629544212,"~/.git/COMMIT_EDITMSG"
+-'  1  26  ~/.git/COMMIT_EDITMSG
+|4,39,1,26,1629544212,"~/.git/COMMIT_EDITMSG"
+-'  1  26  ~/.git/COMMIT_EDITMSG
+|4,39,1,26,1629544212,"~/.git/COMMIT_EDITMSG"
+-'  1  26  ~/.git/COMMIT_EDITMSG
+|4,39,1,26,1629544212,"~/.git/COMMIT_EDITMSG"
+-'  1  26  ~/.git/COMMIT_EDITMSG
+|4,39,1,26,1629544212,"~/.git/COMMIT_EDITMSG"
+-'  1  26  ~/.git/COMMIT_EDITMSG
+|4,39,1,26,1629544212,"~/.git/COMMIT_EDITMSG"
+-'  1  26  ~/.git/COMMIT_EDITMSG
+|4,39,1,26,1629544212,"~/.git/COMMIT_EDITMSG"
+-'  1  26  ~/.git/COMMIT_EDITMSG
+|4,39,1,26,1629544212,"~/.git/COMMIT_EDITMSG"
+-'  1  26  ~/.git/COMMIT_EDITMSG
+|4,39,1,26,1629544212,"~/.git/COMMIT_EDITMSG"
+-'  1  26  ~/.git/COMMIT_EDITMSG
+|4,39,1,26,1629544212,"~/.git/COMMIT_EDITMSG"
 -'  2  28  ~/0x00-shell_basics/6-firstdirectory
 |4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
 -'  2  28  ~/0x00-shell_basics/6-firstdirectory
@@ -84,187 +152,125 @@
 |4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
 -'  2  28  ~/0x00-shell_basics/6-firstdirectory
 |4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
--'  1  0  ~/0x00-shell_basics/6-firstdirectory
-|4,39,1,0,1629543587,"~/0x00-shell_basics/6-firstdirectory"
--'  1  0  ~/0x00-shell_basics/6-firstdirectory
-|4,39,1,0,1629543587,"~/0x00-shell_basics/6-firstdirectory"
--'  1  0  ~/0x00-shell_basics/6-firstdirectory
-|4,39,1,0,1629543587,"~/0x00-shell_basics/6-firstdirectory"
--'  1  0  ~/0x00-shell_basics/6-firstdirectory
-|4,39,1,0,1629543587,"~/0x00-shell_basics/6-firstdirectory"
--'  1  0  ~/0x00-shell_basics/6-firstdirectory
-|4,39,1,0,1629543587,"~/0x00-shell_basics/6-firstdirectory"
--'  1  0  ~/0x00-shell_basics/6-firstdirectory
-|4,39,1,0,1629543587,"~/0x00-shell_basics/6-firstdirectory"
--'  1  0  ~/0x00-shell_basics/6-firstdirectory
-|4,39,1,0,1629543587,"~/0x00-shell_basics/6-firstdirectory"
--'  1  0  ~/0x00-shell_basics/6-firstdirectory
-|4,39,1,0,1629543587,"~/0x00-shell_basics/6-firstdirectory"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1629526633,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1629526633,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1629526633,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1629526633,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1629526633,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1629526633,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1629526633,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1629526633,"~/.git/COMMIT_EDITMSG"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  1  12  ~/.git/COMMIT_EDITMSG
-|4,39,1,12,1629526174,"~/.git/COMMIT_EDITMSG"
--'  1  12  ~/.git/COMMIT_EDITMSG
-|4,39,1,12,1629526174,"~/.git/COMMIT_EDITMSG"
--'  1  12  ~/.git/COMMIT_EDITMSG
-|4,39,1,12,1629526174,"~/.git/COMMIT_EDITMSG"
--'  1  12  ~/.git/COMMIT_EDITMSG
-|4,39,1,12,1629526174,"~/.git/COMMIT_EDITMSG"
--'  1  12  ~/.git/COMMIT_EDITMSG
-|4,39,1,12,1629526174,"~/.git/COMMIT_EDITMSG"
--'  1  12  ~/.git/COMMIT_EDITMSG
-|4,39,1,12,1629526174,"~/.git/COMMIT_EDITMSG"
--'  1  12  ~/.git/COMMIT_EDITMSG
-|4,39,1,12,1629526174,"~/.git/COMMIT_EDITMSG"
--'  1  12  ~/.git/COMMIT_EDITMSG
-|4,39,1,12,1629526174,"~/.git/COMMIT_EDITMSG"
--'  1  12  ~/.git/COMMIT_EDITMSG
-|4,39,1,12,1629526174,"~/.git/COMMIT_EDITMSG"
--'  1  12  ~/.git/COMMIT_EDITMSG
-|4,39,1,12,1629526174,"~/.git/COMMIT_EDITMSG"
--'  1  12  ~/.git/COMMIT_EDITMSG
-|4,39,1,12,1629526174,"~/.git/COMMIT_EDITMSG"
--'  1  12  ~/.git/COMMIT_EDITMSG
-|4,39,1,12,1629526174,"~/.git/COMMIT_EDITMSG"
--'  1  12  ~/.git/COMMIT_EDITMSG
-|4,39,1,12,1629526174,"~/.git/COMMIT_EDITMSG"
--'  1  12  ~/.git/COMMIT_EDITMSG
-|4,39,1,12,1629526174,"~/.git/COMMIT_EDITMSG"
--'  1  12  ~/.git/COMMIT_EDITMSG
-|4,39,1,12,1629526174,"~/.git/COMMIT_EDITMSG"
--'  1  12  ~/.git/COMMIT_EDITMSG
-|4,39,1,12,1629526174,"~/.git/COMMIT_EDITMSG"
--'  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
--'  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
+-'  2  28  ~/0x00-shell_basics/6-firstdirectory
+|4,39,2,28,1629543641,"~/0x00-shell_basics/6-firstdirectory"
 
 # History of marks within files (newest to oldest):
 
 > ~/0x00-shell_basics/7-movethatfile
-	*	1629544426	0
-	"	1	10
-	^	1	11
-	.	2	0
+	*	1629545320	0
+	"	2	13
+	^	2	14
+	.	2	13
 	+	2	27
-	+	2	0
+	+	2	13
+
+> ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+	*	1629545266	0
+	"	1	0
 
 > ~/.git/COMMIT_EDITMSG
-	*	1629544209	0
+	*	1629545155	0
 	"	1	26
 	^	1	27
 	.	2	0
