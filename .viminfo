@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1629548262,,"wq"
+|2,0,1629548307,,"wq"
 :Wq
 |2,0,1629545153,,"Wq"
 :q
@@ -32,32 +32,40 @@
 |3,1,36,2,1,0,1629494919,"i"
 
 # File marks:
-'0  2  16  ~/0x00-shell_basics/7-movethatfile
-|4,48,2,16,1629548262,"~/0x00-shell_basics/7-movethatfile"
-'1  2  36  ~/0x00-shell_basics/7-movethatfile
-|4,49,2,36,1629547594,"~/0x00-shell_basics/7-movethatfile"
-'2  2  7  ~/0x00-shell_basics/7-movethatfile
-|4,50,2,7,1629547371,"~/0x00-shell_basics/7-movethatfile"
+'0  1  26  ~/.git/COMMIT_EDITMSG
+|4,48,1,26,1629548307,"~/.git/COMMIT_EDITMSG"
+'1  2  16  ~/0x00-shell_basics/7-movethatfile
+|4,49,2,16,1629548262,"~/0x00-shell_basics/7-movethatfile"
+'2  2  36  ~/0x00-shell_basics/7-movethatfile
+|4,50,2,36,1629547594,"~/0x00-shell_basics/7-movethatfile"
 '3  2  7  ~/0x00-shell_basics/7-movethatfile
 |4,51,2,7,1629547371,"~/0x00-shell_basics/7-movethatfile"
-'4  1  26  ~/.git/COMMIT_EDITMSG
-|4,52,1,26,1629545479,"~/.git/COMMIT_EDITMSG"
-'5  2  13  ~/0x00-shell_basics/7-movethatfile
-|4,53,2,13,1629545322,"~/0x00-shell_basics/7-movethatfile"
+'4  2  7  ~/0x00-shell_basics/7-movethatfile
+|4,52,2,7,1629547371,"~/0x00-shell_basics/7-movethatfile"
+'5  1  26  ~/.git/COMMIT_EDITMSG
+|4,53,1,26,1629545479,"~/.git/COMMIT_EDITMSG"
 '6  2  13  ~/0x00-shell_basics/7-movethatfile
 |4,54,2,13,1629545322,"~/0x00-shell_basics/7-movethatfile"
 '7  2  13  ~/0x00-shell_basics/7-movethatfile
 |4,55,2,13,1629545322,"~/0x00-shell_basics/7-movethatfile"
 '8  2  13  ~/0x00-shell_basics/7-movethatfile
 |4,56,2,13,1629545322,"~/0x00-shell_basics/7-movethatfile"
-'9  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
-|4,57,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+'9  2  13  ~/0x00-shell_basics/7-movethatfile
+|4,57,2,13,1629545322,"~/0x00-shell_basics/7-movethatfile"
 
 # Jumplist (newest first):
+-'  1  26  ~/.git/COMMIT_EDITMSG
+|4,39,1,26,1629548307,"~/.git/COMMIT_EDITMSG"
+-'  2  16  ~/0x00-shell_basics/7-movethatfile
+|4,39,2,16,1629548262,"~/0x00-shell_basics/7-movethatfile"
 -'  2  16  ~/0x00-shell_basics/7-movethatfile
 |4,39,2,16,1629548262,"~/0x00-shell_basics/7-movethatfile"
 -'  2  36  ~/0x00-shell_basics/7-movethatfile
 |4,39,2,36,1629547594,"~/0x00-shell_basics/7-movethatfile"
+-'  2  36  ~/0x00-shell_basics/7-movethatfile
+|4,39,2,36,1629547594,"~/0x00-shell_basics/7-movethatfile"
+-'  2  7  ~/0x00-shell_basics/7-movethatfile
+|4,39,2,7,1629547371,"~/0x00-shell_basics/7-movethatfile"
 -'  2  7  ~/0x00-shell_basics/7-movethatfile
 |4,39,2,7,1629547371,"~/0x00-shell_basics/7-movethatfile"
 -'  1  26  ~/.git/COMMIT_EDITMSG
@@ -80,6 +88,20 @@
 |4,39,2,13,1629545322,"~/0x00-shell_basics/7-movethatfile"
 -'  2  13  ~/0x00-shell_basics/7-movethatfile
 |4,39,2,13,1629545322,"~/0x00-shell_basics/7-movethatfile"
+-'  2  13  ~/0x00-shell_basics/7-movethatfile
+|4,39,2,13,1629545322,"~/0x00-shell_basics/7-movethatfile"
+-'  2  13  ~/0x00-shell_basics/7-movethatfile
+|4,39,2,13,1629545322,"~/0x00-shell_basics/7-movethatfile"
+-'  1  10  ~/0x00-shell_basics/7-movethatfile
+|4,39,1,10,1629545311,"~/0x00-shell_basics/7-movethatfile"
+-'  1  10  ~/0x00-shell_basics/7-movethatfile
+|4,39,1,10,1629545311,"~/0x00-shell_basics/7-movethatfile"
+-'  1  10  ~/0x00-shell_basics/7-movethatfile
+|4,39,1,10,1629545311,"~/0x00-shell_basics/7-movethatfile"
+-'  1  10  ~/0x00-shell_basics/7-movethatfile
+|4,39,1,10,1629545311,"~/0x00-shell_basics/7-movethatfile"
+-'  1  10  ~/0x00-shell_basics/7-movethatfile
+|4,39,1,10,1629545311,"~/0x00-shell_basics/7-movethatfile"
 -'  1  10  ~/0x00-shell_basics/7-movethatfile
 |4,39,1,10,1629545311,"~/0x00-shell_basics/7-movethatfile"
 -'  1  10  ~/0x00-shell_basics/7-movethatfile
@@ -154,6 +176,70 @@
 |4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
 -'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
 |4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
+-'  1  0  ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
+|4,39,1,0,1629545275,"~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile"
 -'  1  26  ~/.git/COMMIT_EDITMSG
 |4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
 -'  1  26  ~/.git/COMMIT_EDITMSG
@@ -168,94 +254,18 @@
 |4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
 -'  1  26  ~/.git/COMMIT_EDITMSG
 |4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  26  ~/.git/COMMIT_EDITMSG
-|4,39,1,26,1629545159,"~/.git/COMMIT_EDITMSG"
--'  1  10  ~/0x00-shell_basics/7-movethatfile
-|4,39,1,10,1629544427,"~/0x00-shell_basics/7-movethatfile"
--'  1  10  ~/0x00-shell_basics/7-movethatfile
-|4,39,1,10,1629544427,"~/0x00-shell_basics/7-movethatfile"
--'  1  10  ~/0x00-shell_basics/7-movethatfile
-|4,39,1,10,1629544427,"~/0x00-shell_basics/7-movethatfile"
--'  1  10  ~/0x00-shell_basics/7-movethatfile
-|4,39,1,10,1629544427,"~/0x00-shell_basics/7-movethatfile"
--'  1  10  ~/0x00-shell_basics/7-movethatfile
-|4,39,1,10,1629544427,"~/0x00-shell_basics/7-movethatfile"
--'  1  10  ~/0x00-shell_basics/7-movethatfile
-|4,39,1,10,1629544427,"~/0x00-shell_basics/7-movethatfile"
--'  1  10  ~/0x00-shell_basics/7-movethatfile
-|4,39,1,10,1629544427,"~/0x00-shell_basics/7-movethatfile"
--'  1  10  ~/0x00-shell_basics/7-movethatfile
-|4,39,1,10,1629544427,"~/0x00-shell_basics/7-movethatfile"
--'  2  27  ~/0x00-shell_basics/7-movethatfile
-|4,39,2,27,1629544403,"~/0x00-shell_basics/7-movethatfile"
--'  2  27  ~/0x00-shell_basics/7-movethatfile
-|4,39,2,27,1629544403,"~/0x00-shell_basics/7-movethatfile"
--'  2  27  ~/0x00-shell_basics/7-movethatfile
-|4,39,2,27,1629544403,"~/0x00-shell_basics/7-movethatfile"
--'  2  27  ~/0x00-shell_basics/7-movethatfile
-|4,39,2,27,1629544403,"~/0x00-shell_basics/7-movethatfile"
--'  2  27  ~/0x00-shell_basics/7-movethatfile
-|4,39,2,27,1629544403,"~/0x00-shell_basics/7-movethatfile"
--'  2  27  ~/0x00-shell_basics/7-movethatfile
-|4,39,2,27,1629544403,"~/0x00-shell_basics/7-movethatfile"
--'  2  27  ~/0x00-shell_basics/7-movethatfile
-|4,39,2,27,1629544403,"~/0x00-shell_basics/7-movethatfile"
--'  2  27  ~/0x00-shell_basics/7-movethatfile
-|4,39,2,27,1629544403,"~/0x00-shell_basics/7-movethatfile"
--'  3  27  ~/0x00-shell_basics/7-movethatfile
-|4,39,3,27,1629544372,"~/0x00-shell_basics/7-movethatfile"
--'  3  27  ~/0x00-shell_basics/7-movethatfile
-|4,39,3,27,1629544372,"~/0x00-shell_basics/7-movethatfile"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1629548304	0
+	"	1	26
+	^	1	27
+	.	2	0
+	+	1	34
+	+	2	0
+	+	1	27
+	+	2	0
 
 > ~/0x00-shell_basics/7-movethatfile
 	*	1629548253	0
@@ -264,16 +274,6 @@
 	.	2	16
 	+	2	27
 	+	2	16
-
-> ~/.git/COMMIT_EDITMSG
-	*	1629545476	0
-	"	1	26
-	^	1	27
-	.	2	0
-	+	1	34
-	+	2	0
-	+	1	27
-	+	2	0
 
 > ~/0x00-shell_basics/tmp/my_first_directory/7-movethatfile
 	*	1629545266	0
