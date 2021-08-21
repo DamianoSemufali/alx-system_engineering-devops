@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1629525990,,"wq"
+|2,0,1629526461,,"wq"
 :q
 |2,0,1629494397,,"q"
 
@@ -30,36 +30,52 @@
 |3,1,36,2,1,0,1629494919,"i"
 
 # File marks:
-'0  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,48,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
-'1  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,49,2,5,1629525671,"~/0x00-shell_basics/5-listfilesdigitonly"
-'2  2  5  ~/0x00-shell_basics/4-listmorefiles
-|4,50,2,5,1629525179,"~/0x00-shell_basics/4-listmorefiles"
-'3  1  14  ~/.git/COMMIT_EDITMSG
-|4,51,1,14,1629525033,"~/.git/COMMIT_EDITMSG"
-'4  2  4  ~/0x00-shell_basics/3-listfiles
-|4,52,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
-'5  1  14  ~/.git/COMMIT_EDITMSG
-|4,53,1,14,1629524702,"~/.git/COMMIT_EDITMSG"
-'6  2  4  ~/0x00-shell_basics/3-listfiles
-|4,54,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+'0  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
+|4,48,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
+'1  1  12  ~/.git/COMMIT_EDITMSG
+|4,49,1,12,1629526174,"~/.git/COMMIT_EDITMSG"
+'2  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
+|4,50,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
+'3  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
+|4,51,2,5,1629525671,"~/0x00-shell_basics/5-listfilesdigitonly"
+'4  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
+|4,52,2,5,1629525671,"~/0x00-shell_basics/5-listfilesdigitonly"
+'5  2  5  ~/0x00-shell_basics/4-listmorefiles
+|4,53,2,5,1629525179,"~/0x00-shell_basics/4-listmorefiles"
+'6  1  14  ~/.git/COMMIT_EDITMSG
+|4,54,1,14,1629525033,"~/.git/COMMIT_EDITMSG"
 '7  2  4  ~/0x00-shell_basics/3-listfiles
-|4,55,2,4,1629523883,"~/0x00-shell_basics/3-listfiles"
-'8  2  4  ~/0x00-shell_basics/3-listfiles
-|4,56,2,4,1629523883,"~/0x00-shell_basics/3-listfiles"
-'9  2  1  ~/0x00-shell_basics/2-bring_me_home
-|4,57,2,1,1629523571,"~/0x00-shell_basics/2-bring_me_home"
+|4,55,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
+'8  1  14  ~/.git/COMMIT_EDITMSG
+|4,56,1,14,1629524702,"~/.git/COMMIT_EDITMSG"
+'9  1  14  ~/.git/COMMIT_EDITMSG
+|4,57,1,14,1629524702,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
+|4,39,2,5,1629526461,"~/0x00-shell_basics/5-listfilesdigitonly"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629526174,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1629526174,"~/.git/COMMIT_EDITMSG"
 -'  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
 |4,39,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
+-'  2  4  ~/0x00-shell_basics/5-listfilesdigitonly
+|4,39,2,4,1629525990,"~/0x00-shell_basics/5-listfilesdigitonly"
+-'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
+|4,39,2,5,1629525671,"~/0x00-shell_basics/5-listfilesdigitonly"
 -'  2  5  ~/0x00-shell_basics/5-listfilesdigitonly
 |4,39,2,5,1629525671,"~/0x00-shell_basics/5-listfilesdigitonly"
 -'  1  0  ~/0x00-shell_basics/5-listfilesdigitonly
 |4,39,1,0,1629525646,"~/0x00-shell_basics/5-listfilesdigitonly"
 -'  1  0  ~/0x00-shell_basics/5-listfilesdigitonly
 |4,39,1,0,1629525646,"~/0x00-shell_basics/5-listfilesdigitonly"
+-'  1  0  ~/0x00-shell_basics/5-listfilesdigitonly
+|4,39,1,0,1629525646,"~/0x00-shell_basics/5-listfilesdigitonly"
+-'  1  0  ~/0x00-shell_basics/5-listfilesdigitonly
+|4,39,1,0,1629525646,"~/0x00-shell_basics/5-listfilesdigitonly"
+-'  1  0  ~/0x00-shell_basics/5-listfilesdigitonly
+|4,39,1,0,1629525646,"~/0x00-shell_basics/5-listfilesdigitonly"
 -'  2  5  ~/0x00-shell_basics/4-listmorefiles
 |4,39,2,5,1629525179,"~/0x00-shell_basics/4-listmorefiles"
 -'  2  5  ~/0x00-shell_basics/4-listmorefiles
@@ -68,6 +84,54 @@
 |4,39,2,5,1629525179,"~/0x00-shell_basics/4-listmorefiles"
 -'  2  5  ~/0x00-shell_basics/4-listmorefiles
 |4,39,2,5,1629525179,"~/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1629525179,"~/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1629525179,"~/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1629525179,"~/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1629525179,"~/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1629525179,"~/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1629525179,"~/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1629525179,"~/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1629525179,"~/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1629525179,"~/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1629525179,"~/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1629525179,"~/0x00-shell_basics/4-listmorefiles"
+-'  2  5  ~/0x00-shell_basics/4-listmorefiles
+|4,39,2,5,1629525179,"~/0x00-shell_basics/4-listmorefiles"
+-'  1  0  ~/0x00-shell_basics/4-listmorefiles
+|4,39,1,0,1629525151,"~/0x00-shell_basics/4-listmorefiles"
+-'  1  0  ~/0x00-shell_basics/4-listmorefiles
+|4,39,1,0,1629525151,"~/0x00-shell_basics/4-listmorefiles"
+-'  1  0  ~/0x00-shell_basics/4-listmorefiles
+|4,39,1,0,1629525151,"~/0x00-shell_basics/4-listmorefiles"
+-'  1  0  ~/0x00-shell_basics/4-listmorefiles
+|4,39,1,0,1629525151,"~/0x00-shell_basics/4-listmorefiles"
+-'  1  0  ~/0x00-shell_basics/4-listmorefiles
+|4,39,1,0,1629525151,"~/0x00-shell_basics/4-listmorefiles"
+-'  1  0  ~/0x00-shell_basics/4-listmorefiles
+|4,39,1,0,1629525151,"~/0x00-shell_basics/4-listmorefiles"
+-'  1  0  ~/0x00-shell_basics/4-listmorefiles
+|4,39,1,0,1629525151,"~/0x00-shell_basics/4-listmorefiles"
+-'  1  0  ~/0x00-shell_basics/4-listmorefiles
+|4,39,1,0,1629525151,"~/0x00-shell_basics/4-listmorefiles"
+-'  1  0  ~/0x00-shell_basics/4-listmorefiles
+|4,39,1,0,1629525151,"~/0x00-shell_basics/4-listmorefiles"
+-'  1  0  ~/0x00-shell_basics/4-listmorefiles
+|4,39,1,0,1629525151,"~/0x00-shell_basics/4-listmorefiles"
+-'  1  0  ~/0x00-shell_basics/4-listmorefiles
+|4,39,1,0,1629525151,"~/0x00-shell_basics/4-listmorefiles"
+-'  1  0  ~/0x00-shell_basics/4-listmorefiles
+|4,39,1,0,1629525151,"~/0x00-shell_basics/4-listmorefiles"
 -'  1  0  ~/0x00-shell_basics/4-listmorefiles
 |4,39,1,0,1629525151,"~/0x00-shell_basics/4-listmorefiles"
 -'  1  0  ~/0x00-shell_basics/4-listmorefiles
@@ -92,6 +156,22 @@
 |4,39,1,14,1629525033,"~/.git/COMMIT_EDITMSG"
 -'  1  14  ~/.git/COMMIT_EDITMSG
 |4,39,1,14,1629525033,"~/.git/COMMIT_EDITMSG"
+-'  1  14  ~/.git/COMMIT_EDITMSG
+|4,39,1,14,1629525033,"~/.git/COMMIT_EDITMSG"
+-'  1  14  ~/.git/COMMIT_EDITMSG
+|4,39,1,14,1629525033,"~/.git/COMMIT_EDITMSG"
+-'  1  14  ~/.git/COMMIT_EDITMSG
+|4,39,1,14,1629525033,"~/.git/COMMIT_EDITMSG"
+-'  1  14  ~/.git/COMMIT_EDITMSG
+|4,39,1,14,1629525033,"~/.git/COMMIT_EDITMSG"
+-'  1  14  ~/.git/COMMIT_EDITMSG
+|4,39,1,14,1629525033,"~/.git/COMMIT_EDITMSG"
+-'  1  14  ~/.git/COMMIT_EDITMSG
+|4,39,1,14,1629525033,"~/.git/COMMIT_EDITMSG"
+-'  1  14  ~/.git/COMMIT_EDITMSG
+|4,39,1,14,1629525033,"~/.git/COMMIT_EDITMSG"
+-'  1  14  ~/.git/COMMIT_EDITMSG
+|4,39,1,14,1629525033,"~/.git/COMMIT_EDITMSG"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
 |4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
@@ -124,143 +204,71 @@
 |4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
 |4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
--'  1  14  ~/.git/COMMIT_EDITMSG
-|4,39,1,14,1629524702,"~/.git/COMMIT_EDITMSG"
--'  1  14  ~/.git/COMMIT_EDITMSG
-|4,39,1,14,1629524702,"~/.git/COMMIT_EDITMSG"
--'  1  14  ~/.git/COMMIT_EDITMSG
-|4,39,1,14,1629524702,"~/.git/COMMIT_EDITMSG"
--'  1  14  ~/.git/COMMIT_EDITMSG
-|4,39,1,14,1629524702,"~/.git/COMMIT_EDITMSG"
--'  1  14  ~/.git/COMMIT_EDITMSG
-|4,39,1,14,1629524702,"~/.git/COMMIT_EDITMSG"
--'  1  14  ~/.git/COMMIT_EDITMSG
-|4,39,1,14,1629524702,"~/.git/COMMIT_EDITMSG"
--'  1  14  ~/.git/COMMIT_EDITMSG
-|4,39,1,14,1629524702,"~/.git/COMMIT_EDITMSG"
--'  1  14  ~/.git/COMMIT_EDITMSG
-|4,39,1,14,1629524702,"~/.git/COMMIT_EDITMSG"
--'  1  14  ~/.git/COMMIT_EDITMSG
-|4,39,1,14,1629524702,"~/.git/COMMIT_EDITMSG"
--'  1  14  ~/.git/COMMIT_EDITMSG
-|4,39,1,14,1629524702,"~/.git/COMMIT_EDITMSG"
--'  1  14  ~/.git/COMMIT_EDITMSG
-|4,39,1,14,1629524702,"~/.git/COMMIT_EDITMSG"
--'  1  14  ~/.git/COMMIT_EDITMSG
-|4,39,1,14,1629524702,"~/.git/COMMIT_EDITMSG"
--'  1  14  ~/.git/COMMIT_EDITMSG
-|4,39,1,14,1629524702,"~/.git/COMMIT_EDITMSG"
--'  1  14  ~/.git/COMMIT_EDITMSG
-|4,39,1,14,1629524702,"~/.git/COMMIT_EDITMSG"
--'  1  14  ~/.git/COMMIT_EDITMSG
-|4,39,1,14,1629524702,"~/.git/COMMIT_EDITMSG"
--'  1  14  ~/.git/COMMIT_EDITMSG
-|4,39,1,14,1629524702,"~/.git/COMMIT_EDITMSG"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+|4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+|4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+|4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+|4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+|4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+|4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+|4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+|4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+|4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+|4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+|4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+|4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+|4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+|4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+|4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+|4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+|4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+|4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+|4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+|4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+|4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+|4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
+|4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 -'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
--'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
--'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
--'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
--'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
--'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
--'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
--'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
--'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629524564,"~/0x00-shell_basics/3-listfiles"
--'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629523883,"~/0x00-shell_basics/3-listfiles"
--'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629523883,"~/0x00-shell_basics/3-listfiles"
--'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629523883,"~/0x00-shell_basics/3-listfiles"
--'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629523883,"~/0x00-shell_basics/3-listfiles"
--'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629523883,"~/0x00-shell_basics/3-listfiles"
--'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629523883,"~/0x00-shell_basics/3-listfiles"
--'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629523883,"~/0x00-shell_basics/3-listfiles"
--'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629523883,"~/0x00-shell_basics/3-listfiles"
--'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629523883,"~/0x00-shell_basics/3-listfiles"
--'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629523883,"~/0x00-shell_basics/3-listfiles"
--'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629523883,"~/0x00-shell_basics/3-listfiles"
--'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629523883,"~/0x00-shell_basics/3-listfiles"
--'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629523883,"~/0x00-shell_basics/3-listfiles"
--'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629523883,"~/0x00-shell_basics/3-listfiles"
--'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629523883,"~/0x00-shell_basics/3-listfiles"
--'  2  4  ~/0x00-shell_basics/3-listfiles
-|4,39,2,4,1629523883,"~/0x00-shell_basics/3-listfiles"
+|4,39,2,4,1629524904,"~/0x00-shell_basics/3-listfiles"
 
 # History of marks within files (newest to oldest):
 
 > ~/0x00-shell_basics/5-listfilesdigitonly
-	*	1629525988	0
-	"	2	4
-	^	2	5
-	.	2	4
-	+	2	4
+	*	1629526457	0
+	"	2	5
+	^	2	6
+	.	2	5
+	+	2	5
+
+> ~/.git/COMMIT_EDITMSG
+	*	1629526171	0
+	"	1	12
+	^	1	13
+	.	2	0
+	+	1	34
+	+	2	0
 
 > ~/0x00-shell_basics/4-listmorefiles
 	*	1629525177	0
@@ -268,14 +276,6 @@
 	^	2	6
 	.	2	5
 	+	2	5
-
-> ~/.git/COMMIT_EDITMSG
-	*	1629525032	0
-	"	1	14
-	^	1	15
-	.	2	0
-	+	1	34
-	+	2	0
 
 > ~/0x00-shell_basics/3-listfiles
 	*	1629524902	0
