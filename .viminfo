@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1629649282,,"wq"
+|2,0,1629649810,,"wq"
 :q
 |2,0,1629573043,,"q"
 :WQ
@@ -34,28 +34,58 @@
 |3,1,36,2,1,0,1629494919,"i"
 
 # File marks:
-'0  2  7  ~/0x01-shell_permissions/6-multiple_permissions
-|4,48,2,7,1629649282,"~/0x01-shell_permissions/6-multiple_permissions"
-'1  1  4  ~/.git/COMMIT_EDITMSG
-|4,49,1,4,1629648594,"~/.git/COMMIT_EDITMSG"
+'0  2  7  ~/0x01-shell_permissions/7-everybody
+|4,48,2,7,1629649810,"~/0x01-shell_permissions/7-everybody"
+'1  2  14  ~/0x01-shell_permissions/7-everybody
+|4,49,2,14,1629649565,"~/0x01-shell_permissions/7-everybody"
 '2  1  4  ~/.git/COMMIT_EDITMSG
-|4,50,1,4,1629648478,"~/.git/COMMIT_EDITMSG"
+|4,50,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
 '3  2  7  ~/0x01-shell_permissions/6-multiple_permissions
-|4,51,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+|4,51,2,7,1629649282,"~/0x01-shell_permissions/6-multiple_permissions"
 '4  1  4  ~/.git/COMMIT_EDITMSG
-|4,52,1,4,1629641763,"~/.git/COMMIT_EDITMSG"
+|4,52,1,4,1629648594,"~/.git/COMMIT_EDITMSG"
 '5  1  4  ~/.git/COMMIT_EDITMSG
-|4,53,1,4,1629641763,"~/.git/COMMIT_EDITMSG"
-'6  2  8  ~/0x01-shell_permissions/6-multiple_permissions
-|4,54,2,8,1629641604,"~/0x01-shell_permissions/6-multiple_permissions"
-'7  2  8  ~/0x01-shell_permissions/6-multiple_permissions
-|4,55,2,8,1629641604,"~/0x01-shell_permissions/6-multiple_permissions"
-'8  2  19  ~/0x01-shell_permissions/6-multiple_permissions
-|4,56,2,19,1629641035,"~/0x01-shell_permissions/6-multiple_permissions"
-'9  2  19  ~/0x01-shell_permissions/6-multiple_permissions
-|4,57,2,19,1629641035,"~/0x01-shell_permissions/6-multiple_permissions"
+|4,53,1,4,1629648478,"~/.git/COMMIT_EDITMSG"
+'6  1  4  ~/.git/COMMIT_EDITMSG
+|4,54,1,4,1629648478,"~/.git/COMMIT_EDITMSG"
+'7  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,55,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+'8  1  4  ~/.git/COMMIT_EDITMSG
+|4,56,1,4,1629641763,"~/.git/COMMIT_EDITMSG"
+'9  1  4  ~/.git/COMMIT_EDITMSG
+|4,57,1,4,1629641763,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  2  7  ~/0x01-shell_permissions/7-everybody
+|4,39,2,7,1629649810,"~/0x01-shell_permissions/7-everybody"
+-'  2  14  ~/0x01-shell_permissions/7-everybody
+|4,39,2,14,1629649565,"~/0x01-shell_permissions/7-everybody"
+-'  1  0  ~/0x01-shell_permissions/7-everybody
+|4,39,1,0,1629649533,"~/0x01-shell_permissions/7-everybody"
+-'  1  0  ~/0x01-shell_permissions/7-everybody
+|4,39,1,0,1629649533,"~/0x01-shell_permissions/7-everybody"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629649282,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629649282,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629649282,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629649282,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629649282,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629649282,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629649282,"~/0x01-shell_permissions/6-multiple_permissions"
 -'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
 |4,39,2,7,1629649282,"~/0x01-shell_permissions/6-multiple_permissions"
 -'  1  4  ~/.git/COMMIT_EDITMSG
@@ -63,9 +93,33 @@
 -'  1  4  ~/.git/COMMIT_EDITMSG
 |4,39,1,4,1629648594,"~/.git/COMMIT_EDITMSG"
 -'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629648594,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629648594,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629648594,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629648594,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629648594,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629648594,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629648478,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
 |4,39,1,4,1629648478,"~/.git/COMMIT_EDITMSG"
 -'  1  4  ~/.git/COMMIT_EDITMSG
 |4,39,1,4,1629648478,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629648478,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629648478,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629648478,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629648478,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629648478,"~/.git/COMMIT_EDITMSG"
 -'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
 |4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
 -'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
@@ -74,6 +128,86 @@
 |4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
 -'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
 |4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629641763,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629641763,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629641763,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629641763,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629641763,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629641763,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629641763,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629641763,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629641763,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629641763,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629641763,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629641763,"~/.git/COMMIT_EDITMSG"
 -'  1  4  ~/.git/COMMIT_EDITMSG
 |4,39,1,4,1629641763,"~/.git/COMMIT_EDITMSG"
 -'  1  4  ~/.git/COMMIT_EDITMSG
@@ -98,176 +232,43 @@
 |4,39,2,8,1629641604,"~/0x01-shell_permissions/6-multiple_permissions"
 -'  2  8  ~/0x01-shell_permissions/6-multiple_permissions
 |4,39,2,8,1629641604,"~/0x01-shell_permissions/6-multiple_permissions"
--'  2  19  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,19,1629641035,"~/0x01-shell_permissions/6-multiple_permissions"
--'  2  19  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,19,1629641035,"~/0x01-shell_permissions/6-multiple_permissions"
--'  2  19  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,19,1629641035,"~/0x01-shell_permissions/6-multiple_permissions"
--'  2  19  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,19,1629641035,"~/0x01-shell_permissions/6-multiple_permissions"
--'  2  19  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,19,1629641035,"~/0x01-shell_permissions/6-multiple_permissions"
--'  2  19  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,19,1629641035,"~/0x01-shell_permissions/6-multiple_permissions"
--'  2  19  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,19,1629641035,"~/0x01-shell_permissions/6-multiple_permissions"
--'  2  19  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,19,1629641035,"~/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
--'  2  6  ~/0x01-shell_permissions/5-execute
-|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
+-'  2  8  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,8,1629641604,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  8  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,8,1629641604,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  8  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,8,1629641604,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  8  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,8,1629641604,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  8  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,8,1629641604,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  8  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,8,1629641604,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  8  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,8,1629641604,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  8  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,8,1629641604,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  8  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,8,1629641604,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  8  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,8,1629641604,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  8  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,8,1629641604,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  8  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,8,1629641604,"~/0x01-shell_permissions/6-multiple_permissions"
 
 # History of marks within files (newest to oldest):
 
-> ~/0x01-shell_permissions/6-multiple_permissions
-	*	1629649279	0
+> ~/0x01-shell_permissions/7-everybody
+	*	1629649808	0
 	"	2	7
 	^	2	8
 	.	2	7
+	+	3	0
 	+	2	7
 
 > ~/.git/COMMIT_EDITMSG
-	*	1629648592	0
+	*	1629649394	0
 	"	1	4
 	^	1	5
 	.	2	0
@@ -281,6 +282,13 @@
 	+	2	0
 	+	1	14
 	+	2	0
+
+> ~/0x01-shell_permissions/6-multiple_permissions
+	*	1629649279	0
+	"	2	7
+	^	2	8
+	.	2	7
+	+	2	7
 
 > ~/0x01-shell_permissions/5-execute
 	*	1629637456	0
