@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1629654538,,"wq"
+|2,0,1629654647,,"wq"
 :q
 |2,0,1629573043,,"q"
 :WQ
@@ -34,28 +34,32 @@
 |3,1,36,2,1,0,1629494919,"i"
 
 # File marks:
-'0  2  9  ~/0x01-shell_permissions/11-directories_permissions
-|4,48,2,9,1629654538,"~/0x01-shell_permissions/11-directories_permissions"
-'1  1  2  ~/.git/COMMIT_EDITMSG
-|4,49,1,2,1629654311,"~/.git/COMMIT_EDITMSG"
-'2  2  4  ~/0x01-shell_permissions/11-directories_permissions
-|4,50,2,4,1629654176,"~/0x01-shell_permissions/11-directories_permissions"
-'3  2  8  ~/0x01-shell_permissions/11-directories_permissions
-|4,51,2,8,1629653867,"~/0x01-shell_permissions/11-directories_permissions"
+'0  1  2  ~/.git/COMMIT_EDITMSG
+|4,48,1,2,1629654647,"~/.git/COMMIT_EDITMSG"
+'1  2  9  ~/0x01-shell_permissions/11-directories_permissions
+|4,49,2,9,1629654538,"~/0x01-shell_permissions/11-directories_permissions"
+'2  1  2  ~/.git/COMMIT_EDITMSG
+|4,50,1,2,1629654311,"~/.git/COMMIT_EDITMSG"
+'3  2  4  ~/0x01-shell_permissions/11-directories_permissions
+|4,51,2,4,1629654176,"~/0x01-shell_permissions/11-directories_permissions"
 '4  2  8  ~/0x01-shell_permissions/11-directories_permissions
 |4,52,2,8,1629653867,"~/0x01-shell_permissions/11-directories_permissions"
-'5  2  28  ~/0x01-shell_permissions/10-mirror_permissions
-|4,53,2,28,1629653102,"~/0x01-shell_permissions/10-mirror_permissions"
-'6  2  14  ~/0x01-shell_permissions/9-John_Doe
-|4,54,2,14,1629652551,"~/0x01-shell_permissions/9-John_Doe"
-'7  1  0  ~/0x01-shell_permissions/8-James_Bond
-|4,55,1,0,1629652302,"~/0x01-shell_permissions/8-James_Bond"
-'8  2  14  ~/0x01-shell_permissions/0-James_Bond
-|4,56,2,14,1629652073,"~/0x01-shell_permissions/0-James_Bond"
-'9  1  8  ~/.git/COMMIT_EDITMSG
-|4,57,1,8,1629651916,"~/.git/COMMIT_EDITMSG"
+'5  2  8  ~/0x01-shell_permissions/11-directories_permissions
+|4,53,2,8,1629653867,"~/0x01-shell_permissions/11-directories_permissions"
+'6  2  28  ~/0x01-shell_permissions/10-mirror_permissions
+|4,54,2,28,1629653102,"~/0x01-shell_permissions/10-mirror_permissions"
+'7  2  14  ~/0x01-shell_permissions/9-John_Doe
+|4,55,2,14,1629652551,"~/0x01-shell_permissions/9-John_Doe"
+'8  1  0  ~/0x01-shell_permissions/8-James_Bond
+|4,56,1,0,1629652302,"~/0x01-shell_permissions/8-James_Bond"
+'9  2  14  ~/0x01-shell_permissions/0-James_Bond
+|4,57,2,14,1629652073,"~/0x01-shell_permissions/0-James_Bond"
 
 # Jumplist (newest first):
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1629654647,"~/.git/COMMIT_EDITMSG"
+-'  2  9  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,9,1629654538,"~/0x01-shell_permissions/11-directories_permissions"
 -'  2  9  ~/0x01-shell_permissions/11-directories_permissions
 |4,39,2,9,1629654538,"~/0x01-shell_permissions/11-directories_permissions"
 -'  1  2  ~/.git/COMMIT_EDITMSG
@@ -66,6 +70,14 @@
 |4,39,2,4,1629654176,"~/0x01-shell_permissions/11-directories_permissions"
 -'  2  4  ~/0x01-shell_permissions/11-directories_permissions
 |4,39,2,4,1629654176,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  4  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,4,1629654176,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  4  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,4,1629654176,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  8  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,8,1629653867,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  8  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,8,1629653867,"~/0x01-shell_permissions/11-directories_permissions"
 -'  2  8  ~/0x01-shell_permissions/11-directories_permissions
 |4,39,2,8,1629653867,"~/0x01-shell_permissions/11-directories_permissions"
 -'  2  8  ~/0x01-shell_permissions/11-directories_permissions
@@ -80,6 +92,48 @@
 |4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
 -'  1  0  ~/0x01-shell_permissions/11-directories_permissions
 |4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
+-'  1  0  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
+-'  1  0  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
+-'  1  0  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
+-'  1  0  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
+-'  1  0  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  28  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,2,28,1629653102,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  2  28  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,2,28,1629653102,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  2  28  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,2,28,1629653102,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  2  28  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,2,28,1629653102,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  2  28  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,2,28,1629653102,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  2  28  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,2,28,1629653102,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  2  28  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,2,28,1629653102,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  2  28  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,2,28,1629653102,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  2  28  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,2,28,1629653102,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  2  28  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,2,28,1629653102,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  2  28  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,2,28,1629653102,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  2  28  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,2,28,1629653102,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  2  28  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,2,28,1629653102,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  2  28  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,2,28,1629653102,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  2  28  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,2,28,1629653102,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  2  28  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,2,28,1629653102,"~/0x01-shell_permissions/10-mirror_permissions"
 -'  2  28  ~/0x01-shell_permissions/10-mirror_permissions
 |4,39,2,28,1629653102,"~/0x01-shell_permissions/10-mirror_permissions"
 -'  2  28  ~/0x01-shell_permissions/10-mirror_permissions
@@ -144,6 +198,38 @@
 |4,39,1,0,1629653025,"~/0x01-shell_permissions/10-mirror_permissions"
 -'  1  0  ~/0x01-shell_permissions/10-mirror_permissions
 |4,39,1,0,1629653025,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  1  0  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,1,0,1629653025,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  1  0  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,1,0,1629653025,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  1  0  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,1,0,1629653025,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  1  0  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,1,0,1629653025,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  1  0  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,1,0,1629653025,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  1  0  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,1,0,1629653025,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  1  0  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,1,0,1629653025,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  1  0  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,1,0,1629653025,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  1  0  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,1,0,1629653025,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  1  0  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,1,0,1629653025,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  1  0  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,1,0,1629653025,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  1  0  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,1,0,1629653025,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  1  0  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,1,0,1629653025,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  1  0  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,1,0,1629653025,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  1  0  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,1,0,1629653025,"~/0x01-shell_permissions/10-mirror_permissions"
+-'  1  0  ~/0x01-shell_permissions/10-mirror_permissions
+|4,39,1,0,1629653025,"~/0x01-shell_permissions/10-mirror_permissions"
 -'  2  14  ~/0x01-shell_permissions/9-John_Doe
 |4,39,2,14,1629652551,"~/0x01-shell_permissions/9-John_Doe"
 -'  2  14  ~/0x01-shell_permissions/9-John_Doe
@@ -170,107 +256,14 @@
 |4,39,2,14,1629652551,"~/0x01-shell_permissions/9-John_Doe"
 -'  2  14  ~/0x01-shell_permissions/9-John_Doe
 |4,39,2,14,1629652551,"~/0x01-shell_permissions/9-John_Doe"
--'  2  14  ~/0x01-shell_permissions/9-John_Doe
-|4,39,2,14,1629652551,"~/0x01-shell_permissions/9-John_Doe"
--'  2  14  ~/0x01-shell_permissions/9-John_Doe
-|4,39,2,14,1629652551,"~/0x01-shell_permissions/9-John_Doe"
--'  2  14  ~/0x01-shell_permissions/9-John_Doe
-|4,39,2,14,1629652551,"~/0x01-shell_permissions/9-John_Doe"
--'  2  14  ~/0x01-shell_permissions/9-John_Doe
-|4,39,2,14,1629652551,"~/0x01-shell_permissions/9-John_Doe"
--'  2  14  ~/0x01-shell_permissions/9-John_Doe
-|4,39,2,14,1629652551,"~/0x01-shell_permissions/9-John_Doe"
--'  2  14  ~/0x01-shell_permissions/9-John_Doe
-|4,39,2,14,1629652551,"~/0x01-shell_permissions/9-John_Doe"
--'  2  14  ~/0x01-shell_permissions/9-John_Doe
-|4,39,2,14,1629652551,"~/0x01-shell_permissions/9-John_Doe"
--'  2  14  ~/0x01-shell_permissions/9-John_Doe
-|4,39,2,14,1629652551,"~/0x01-shell_permissions/9-John_Doe"
--'  2  14  ~/0x01-shell_permissions/9-John_Doe
-|4,39,2,14,1629652551,"~/0x01-shell_permissions/9-John_Doe"
--'  2  14  ~/0x01-shell_permissions/9-John_Doe
-|4,39,2,14,1629652551,"~/0x01-shell_permissions/9-John_Doe"
--'  2  14  ~/0x01-shell_permissions/9-John_Doe
-|4,39,2,14,1629652551,"~/0x01-shell_permissions/9-John_Doe"
--'  2  14  ~/0x01-shell_permissions/9-John_Doe
-|4,39,2,14,1629652551,"~/0x01-shell_permissions/9-John_Doe"
--'  2  14  ~/0x01-shell_permissions/9-John_Doe
-|4,39,2,14,1629652551,"~/0x01-shell_permissions/9-John_Doe"
--'  2  14  ~/0x01-shell_permissions/9-John_Doe
-|4,39,2,14,1629652551,"~/0x01-shell_permissions/9-John_Doe"
--'  2  14  ~/0x01-shell_permissions/9-John_Doe
-|4,39,2,14,1629652551,"~/0x01-shell_permissions/9-John_Doe"
--'  2  14  ~/0x01-shell_permissions/9-John_Doe
-|4,39,2,14,1629652551,"~/0x01-shell_permissions/9-John_Doe"
--'  2  14  ~/0x01-shell_permissions/9-John_Doe
-|4,39,2,14,1629652551,"~/0x01-shell_permissions/9-John_Doe"
--'  2  14  ~/0x01-shell_permissions/9-John_Doe
-|4,39,2,14,1629652551,"~/0x01-shell_permissions/9-John_Doe"
--'  2  14  ~/0x01-shell_permissions/9-John_Doe
-|4,39,2,14,1629652551,"~/0x01-shell_permissions/9-John_Doe"
--'  1  0  ~/0x01-shell_permissions/9-John_Doe
-|4,39,1,0,1629652526,"~/0x01-shell_permissions/9-John_Doe"
--'  1  0  ~/0x01-shell_permissions/9-John_Doe
-|4,39,1,0,1629652526,"~/0x01-shell_permissions/9-John_Doe"
--'  1  0  ~/0x01-shell_permissions/9-John_Doe
-|4,39,1,0,1629652526,"~/0x01-shell_permissions/9-John_Doe"
--'  1  0  ~/0x01-shell_permissions/9-John_Doe
-|4,39,1,0,1629652526,"~/0x01-shell_permissions/9-John_Doe"
--'  1  0  ~/0x01-shell_permissions/9-John_Doe
-|4,39,1,0,1629652526,"~/0x01-shell_permissions/9-John_Doe"
--'  1  0  ~/0x01-shell_permissions/9-John_Doe
-|4,39,1,0,1629652526,"~/0x01-shell_permissions/9-John_Doe"
--'  1  0  ~/0x01-shell_permissions/9-John_Doe
-|4,39,1,0,1629652526,"~/0x01-shell_permissions/9-John_Doe"
--'  1  0  ~/0x01-shell_permissions/9-John_Doe
-|4,39,1,0,1629652526,"~/0x01-shell_permissions/9-John_Doe"
--'  1  0  ~/0x01-shell_permissions/9-John_Doe
-|4,39,1,0,1629652526,"~/0x01-shell_permissions/9-John_Doe"
--'  1  0  ~/0x01-shell_permissions/9-John_Doe
-|4,39,1,0,1629652526,"~/0x01-shell_permissions/9-John_Doe"
--'  1  0  ~/0x01-shell_permissions/9-John_Doe
-|4,39,1,0,1629652526,"~/0x01-shell_permissions/9-John_Doe"
--'  1  0  ~/0x01-shell_permissions/9-John_Doe
-|4,39,1,0,1629652526,"~/0x01-shell_permissions/9-John_Doe"
--'  1  0  ~/0x01-shell_permissions/9-John_Doe
-|4,39,1,0,1629652526,"~/0x01-shell_permissions/9-John_Doe"
--'  1  0  ~/0x01-shell_permissions/9-John_Doe
-|4,39,1,0,1629652526,"~/0x01-shell_permissions/9-John_Doe"
--'  1  0  ~/0x01-shell_permissions/9-John_Doe
-|4,39,1,0,1629652526,"~/0x01-shell_permissions/9-John_Doe"
--'  1  0  ~/0x01-shell_permissions/9-John_Doe
-|4,39,1,0,1629652526,"~/0x01-shell_permissions/9-John_Doe"
--'  1  0  ~/0x01-shell_permissions/9-John_Doe
-|4,39,1,0,1629652526,"~/0x01-shell_permissions/9-John_Doe"
--'  1  0  ~/0x01-shell_permissions/9-John_Doe
-|4,39,1,0,1629652526,"~/0x01-shell_permissions/9-John_Doe"
--'  1  0  ~/0x01-shell_permissions/9-John_Doe
-|4,39,1,0,1629652526,"~/0x01-shell_permissions/9-John_Doe"
--'  1  0  ~/0x01-shell_permissions/9-John_Doe
-|4,39,1,0,1629652526,"~/0x01-shell_permissions/9-John_Doe"
--'  1  0  ~/0x01-shell_permissions/9-John_Doe
-|4,39,1,0,1629652526,"~/0x01-shell_permissions/9-John_Doe"
--'  1  0  ~/0x01-shell_permissions/9-John_Doe
-|4,39,1,0,1629652526,"~/0x01-shell_permissions/9-John_Doe"
--'  1  0  ~/0x01-shell_permissions/9-John_Doe
-|4,39,1,0,1629652526,"~/0x01-shell_permissions/9-John_Doe"
--'  1  0  ~/0x01-shell_permissions/9-John_Doe
-|4,39,1,0,1629652526,"~/0x01-shell_permissions/9-John_Doe"
 
 # History of marks within files (newest to oldest):
 
-> ~/0x01-shell_permissions/11-directories_permissions
-	*	1629654537	0
-	"	2	9
-	^	2	10
-	.	2	9
-	+	2	9
-
 > ~/.git/COMMIT_EDITMSG
-	*	1629654309	0
+	*	1629654646	0
 	"	1	2
 	^	1	3
-	.	1	2
+	.	2	0
 	+	1	34
 	+	1	1
 	+	1	27
@@ -284,7 +277,15 @@
 	+	2	0
 	+	1	9
 	+	2	0
-	+	1	2
+	+	1	3
+	+	2	0
+
+> ~/0x01-shell_permissions/11-directories_permissions
+	*	1629654537	0
+	"	2	9
+	^	2	10
+	.	2	9
+	+	2	9
 
 > ~/0x01-shell_permissions/10-mirror_permissions
 	*	1629653100	0
