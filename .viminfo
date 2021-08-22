@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1629641604,,"wq"
+|2,0,1629648427,,"wq"
 :q
 |2,0,1629573043,,"q"
 :WQ
@@ -34,36 +34,52 @@
 |3,1,36,2,1,0,1629494919,"i"
 
 # File marks:
-'0  2  8  ~/0x01-shell_permissions/6-multiple_permissions
-|4,48,2,8,1629641604,"~/0x01-shell_permissions/6-multiple_permissions"
-'1  2  19  ~/0x01-shell_permissions/6-multiple_permissions
-|4,49,2,19,1629641035,"~/0x01-shell_permissions/6-multiple_permissions"
-'2  2  6  ~/0x01-shell_permissions/5-execute
-|4,50,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
-'3  2  10  ~/0x01-shell_permissions/4-empty
-|4,51,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
-'4  2  16  ~/0x01-shell_permissions/3-new_owner
-|4,52,2,16,1629635472,"~/0x01-shell_permissions/3-new_owner"
-'5  2  5  ~/0x01-shell_permissions/2-groups
-|4,53,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
-'6  1  6  ~/.git/COMMIT_EDITMSG
-|4,54,1,6,1629634835,"~/.git/COMMIT_EDITMSG"
-'7  2  5  ~/0x01-shell_permissions/1-who_am_i
-|4,55,2,5,1629634703,"~/0x01-shell_permissions/1-who_am_i"
-'8  2  1  ~/0x01-shell_permissions/1-who_am_i
-|4,56,2,1,1629634484,"~/0x01-shell_permissions/1-who_am_i"
-'9  1  13  ~/.git/COMMIT_EDITMSG
-|4,57,1,13,1629634237,"~/.git/COMMIT_EDITMSG"
+'0  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,48,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+'1  1  4  ~/.git/COMMIT_EDITMSG
+|4,49,1,4,1629641763,"~/.git/COMMIT_EDITMSG"
+'2  2  8  ~/0x01-shell_permissions/6-multiple_permissions
+|4,50,2,8,1629641604,"~/0x01-shell_permissions/6-multiple_permissions"
+'3  2  19  ~/0x01-shell_permissions/6-multiple_permissions
+|4,51,2,19,1629641035,"~/0x01-shell_permissions/6-multiple_permissions"
+'4  2  19  ~/0x01-shell_permissions/6-multiple_permissions
+|4,52,2,19,1629641035,"~/0x01-shell_permissions/6-multiple_permissions"
+'5  2  6  ~/0x01-shell_permissions/5-execute
+|4,53,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
+'6  2  10  ~/0x01-shell_permissions/4-empty
+|4,54,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+'7  2  16  ~/0x01-shell_permissions/3-new_owner
+|4,55,2,16,1629635472,"~/0x01-shell_permissions/3-new_owner"
+'8  2  5  ~/0x01-shell_permissions/2-groups
+|4,56,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
+'9  1  6  ~/.git/COMMIT_EDITMSG
+|4,57,1,6,1629634835,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,7,1629648427,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629641763,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1629641763,"~/.git/COMMIT_EDITMSG"
 -'  2  8  ~/0x01-shell_permissions/6-multiple_permissions
 |4,39,2,8,1629641604,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  8  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,8,1629641604,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  2  19  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,19,1629641035,"~/0x01-shell_permissions/6-multiple_permissions"
 -'  2  19  ~/0x01-shell_permissions/6-multiple_permissions
 |4,39,2,19,1629641035,"~/0x01-shell_permissions/6-multiple_permissions"
 -'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
 |4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
 -'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
 |4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
+-'  1  0  ~/0x01-shell_permissions/6-multiple_permissions
+|4,39,1,0,1629640778,"~/0x01-shell_permissions/6-multiple_permissions"
 -'  2  6  ~/0x01-shell_permissions/5-execute
 |4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
 -'  2  6  ~/0x01-shell_permissions/5-execute
@@ -72,6 +88,54 @@
 |4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
 -'  2  6  ~/0x01-shell_permissions/5-execute
 |4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
+-'  2  6  ~/0x01-shell_permissions/5-execute
+|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
+-'  2  6  ~/0x01-shell_permissions/5-execute
+|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
+-'  2  6  ~/0x01-shell_permissions/5-execute
+|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
+-'  2  6  ~/0x01-shell_permissions/5-execute
+|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
+-'  2  6  ~/0x01-shell_permissions/5-execute
+|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
+-'  2  6  ~/0x01-shell_permissions/5-execute
+|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
+-'  2  6  ~/0x01-shell_permissions/5-execute
+|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
+-'  2  6  ~/0x01-shell_permissions/5-execute
+|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
+-'  2  6  ~/0x01-shell_permissions/5-execute
+|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
+-'  2  6  ~/0x01-shell_permissions/5-execute
+|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
+-'  2  6  ~/0x01-shell_permissions/5-execute
+|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
+-'  2  6  ~/0x01-shell_permissions/5-execute
+|4,39,2,6,1629637458,"~/0x01-shell_permissions/5-execute"
+-'  1  0  ~/0x01-shell_permissions/5-execute
+|4,39,1,0,1629637392,"~/0x01-shell_permissions/5-execute"
+-'  1  0  ~/0x01-shell_permissions/5-execute
+|4,39,1,0,1629637392,"~/0x01-shell_permissions/5-execute"
+-'  1  0  ~/0x01-shell_permissions/5-execute
+|4,39,1,0,1629637392,"~/0x01-shell_permissions/5-execute"
+-'  1  0  ~/0x01-shell_permissions/5-execute
+|4,39,1,0,1629637392,"~/0x01-shell_permissions/5-execute"
+-'  1  0  ~/0x01-shell_permissions/5-execute
+|4,39,1,0,1629637392,"~/0x01-shell_permissions/5-execute"
+-'  1  0  ~/0x01-shell_permissions/5-execute
+|4,39,1,0,1629637392,"~/0x01-shell_permissions/5-execute"
+-'  1  0  ~/0x01-shell_permissions/5-execute
+|4,39,1,0,1629637392,"~/0x01-shell_permissions/5-execute"
+-'  1  0  ~/0x01-shell_permissions/5-execute
+|4,39,1,0,1629637392,"~/0x01-shell_permissions/5-execute"
+-'  1  0  ~/0x01-shell_permissions/5-execute
+|4,39,1,0,1629637392,"~/0x01-shell_permissions/5-execute"
+-'  1  0  ~/0x01-shell_permissions/5-execute
+|4,39,1,0,1629637392,"~/0x01-shell_permissions/5-execute"
+-'  1  0  ~/0x01-shell_permissions/5-execute
+|4,39,1,0,1629637392,"~/0x01-shell_permissions/5-execute"
+-'  1  0  ~/0x01-shell_permissions/5-execute
+|4,39,1,0,1629637392,"~/0x01-shell_permissions/5-execute"
 -'  1  0  ~/0x01-shell_permissions/5-execute
 |4,39,1,0,1629637392,"~/0x01-shell_permissions/5-execute"
 -'  1  0  ~/0x01-shell_permissions/5-execute
@@ -96,6 +160,54 @@
 |4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
 -'  2  10  ~/0x01-shell_permissions/4-empty
 |4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+-'  2  10  ~/0x01-shell_permissions/4-empty
+|4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+-'  2  10  ~/0x01-shell_permissions/4-empty
+|4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+-'  2  10  ~/0x01-shell_permissions/4-empty
+|4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+-'  2  10  ~/0x01-shell_permissions/4-empty
+|4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+-'  2  10  ~/0x01-shell_permissions/4-empty
+|4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+-'  2  10  ~/0x01-shell_permissions/4-empty
+|4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+-'  2  10  ~/0x01-shell_permissions/4-empty
+|4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+-'  2  10  ~/0x01-shell_permissions/4-empty
+|4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+-'  2  10  ~/0x01-shell_permissions/4-empty
+|4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+-'  2  10  ~/0x01-shell_permissions/4-empty
+|4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+-'  2  10  ~/0x01-shell_permissions/4-empty
+|4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+-'  2  10  ~/0x01-shell_permissions/4-empty
+|4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+-'  2  10  ~/0x01-shell_permissions/4-empty
+|4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+-'  2  10  ~/0x01-shell_permissions/4-empty
+|4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+-'  2  10  ~/0x01-shell_permissions/4-empty
+|4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+-'  2  10  ~/0x01-shell_permissions/4-empty
+|4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+-'  2  10  ~/0x01-shell_permissions/4-empty
+|4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+-'  2  10  ~/0x01-shell_permissions/4-empty
+|4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+-'  2  10  ~/0x01-shell_permissions/4-empty
+|4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+-'  2  10  ~/0x01-shell_permissions/4-empty
+|4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+-'  2  10  ~/0x01-shell_permissions/4-empty
+|4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+-'  2  10  ~/0x01-shell_permissions/4-empty
+|4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+-'  2  10  ~/0x01-shell_permissions/4-empty
+|4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
+-'  2  10  ~/0x01-shell_permissions/4-empty
+|4,39,2,10,1629635769,"~/0x01-shell_permissions/4-empty"
 -'  1  0  ~/0x01-shell_permissions/4-empty
 |4,39,1,0,1629635747,"~/0x01-shell_permissions/4-empty"
 -'  1  0  ~/0x01-shell_permissions/4-empty
@@ -112,159 +224,63 @@
 |4,39,1,0,1629635747,"~/0x01-shell_permissions/4-empty"
 -'  1  0  ~/0x01-shell_permissions/4-empty
 |4,39,1,0,1629635747,"~/0x01-shell_permissions/4-empty"
--'  2  16  ~/0x01-shell_permissions/3-new_owner
-|4,39,2,16,1629635472,"~/0x01-shell_permissions/3-new_owner"
--'  2  16  ~/0x01-shell_permissions/3-new_owner
-|4,39,2,16,1629635472,"~/0x01-shell_permissions/3-new_owner"
--'  2  16  ~/0x01-shell_permissions/3-new_owner
-|4,39,2,16,1629635472,"~/0x01-shell_permissions/3-new_owner"
--'  2  16  ~/0x01-shell_permissions/3-new_owner
-|4,39,2,16,1629635472,"~/0x01-shell_permissions/3-new_owner"
--'  2  16  ~/0x01-shell_permissions/3-new_owner
-|4,39,2,16,1629635472,"~/0x01-shell_permissions/3-new_owner"
--'  2  16  ~/0x01-shell_permissions/3-new_owner
-|4,39,2,16,1629635472,"~/0x01-shell_permissions/3-new_owner"
--'  2  16  ~/0x01-shell_permissions/3-new_owner
-|4,39,2,16,1629635472,"~/0x01-shell_permissions/3-new_owner"
--'  2  16  ~/0x01-shell_permissions/3-new_owner
-|4,39,2,16,1629635472,"~/0x01-shell_permissions/3-new_owner"
--'  2  16  ~/0x01-shell_permissions/3-new_owner
-|4,39,2,16,1629635472,"~/0x01-shell_permissions/3-new_owner"
--'  2  16  ~/0x01-shell_permissions/3-new_owner
-|4,39,2,16,1629635472,"~/0x01-shell_permissions/3-new_owner"
--'  2  16  ~/0x01-shell_permissions/3-new_owner
-|4,39,2,16,1629635472,"~/0x01-shell_permissions/3-new_owner"
--'  2  16  ~/0x01-shell_permissions/3-new_owner
-|4,39,2,16,1629635472,"~/0x01-shell_permissions/3-new_owner"
--'  2  16  ~/0x01-shell_permissions/3-new_owner
-|4,39,2,16,1629635472,"~/0x01-shell_permissions/3-new_owner"
--'  2  16  ~/0x01-shell_permissions/3-new_owner
-|4,39,2,16,1629635472,"~/0x01-shell_permissions/3-new_owner"
--'  2  16  ~/0x01-shell_permissions/3-new_owner
-|4,39,2,16,1629635472,"~/0x01-shell_permissions/3-new_owner"
--'  2  16  ~/0x01-shell_permissions/3-new_owner
-|4,39,2,16,1629635472,"~/0x01-shell_permissions/3-new_owner"
--'  1  0  ~/0x01-shell_permissions/3-new_owner
-|4,39,1,0,1629635387,"~/0x01-shell_permissions/3-new_owner"
--'  1  0  ~/0x01-shell_permissions/3-new_owner
-|4,39,1,0,1629635387,"~/0x01-shell_permissions/3-new_owner"
--'  1  0  ~/0x01-shell_permissions/3-new_owner
-|4,39,1,0,1629635387,"~/0x01-shell_permissions/3-new_owner"
--'  1  0  ~/0x01-shell_permissions/3-new_owner
-|4,39,1,0,1629635387,"~/0x01-shell_permissions/3-new_owner"
--'  1  0  ~/0x01-shell_permissions/3-new_owner
-|4,39,1,0,1629635387,"~/0x01-shell_permissions/3-new_owner"
--'  1  0  ~/0x01-shell_permissions/3-new_owner
-|4,39,1,0,1629635387,"~/0x01-shell_permissions/3-new_owner"
--'  1  0  ~/0x01-shell_permissions/3-new_owner
-|4,39,1,0,1629635387,"~/0x01-shell_permissions/3-new_owner"
--'  1  0  ~/0x01-shell_permissions/3-new_owner
-|4,39,1,0,1629635387,"~/0x01-shell_permissions/3-new_owner"
--'  1  0  ~/0x01-shell_permissions/3-new_owner
-|4,39,1,0,1629635387,"~/0x01-shell_permissions/3-new_owner"
--'  1  0  ~/0x01-shell_permissions/3-new_owner
-|4,39,1,0,1629635387,"~/0x01-shell_permissions/3-new_owner"
--'  1  0  ~/0x01-shell_permissions/3-new_owner
-|4,39,1,0,1629635387,"~/0x01-shell_permissions/3-new_owner"
--'  1  0  ~/0x01-shell_permissions/3-new_owner
-|4,39,1,0,1629635387,"~/0x01-shell_permissions/3-new_owner"
--'  1  0  ~/0x01-shell_permissions/3-new_owner
-|4,39,1,0,1629635387,"~/0x01-shell_permissions/3-new_owner"
--'  1  0  ~/0x01-shell_permissions/3-new_owner
-|4,39,1,0,1629635387,"~/0x01-shell_permissions/3-new_owner"
--'  1  0  ~/0x01-shell_permissions/3-new_owner
-|4,39,1,0,1629635387,"~/0x01-shell_permissions/3-new_owner"
--'  1  0  ~/0x01-shell_permissions/3-new_owner
-|4,39,1,0,1629635387,"~/0x01-shell_permissions/3-new_owner"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  2  5  ~/0x01-shell_permissions/2-groups
-|4,39,2,5,1629635246,"~/0x01-shell_permissions/2-groups"
--'  1  0  ~/0x01-shell_permissions/2-groups
-|4,39,1,0,1629634948,"~/0x01-shell_permissions/2-groups"
--'  1  0  ~/0x01-shell_permissions/2-groups
-|4,39,1,0,1629634948,"~/0x01-shell_permissions/2-groups"
--'  1  0  ~/0x01-shell_permissions/2-groups
-|4,39,1,0,1629634948,"~/0x01-shell_permissions/2-groups"
--'  1  0  ~/0x01-shell_permissions/2-groups
-|4,39,1,0,1629634948,"~/0x01-shell_permissions/2-groups"
--'  1  0  ~/0x01-shell_permissions/2-groups
-|4,39,1,0,1629634948,"~/0x01-shell_permissions/2-groups"
--'  1  0  ~/0x01-shell_permissions/2-groups
-|4,39,1,0,1629634948,"~/0x01-shell_permissions/2-groups"
--'  1  0  ~/0x01-shell_permissions/2-groups
-|4,39,1,0,1629634948,"~/0x01-shell_permissions/2-groups"
--'  1  0  ~/0x01-shell_permissions/2-groups
-|4,39,1,0,1629634948,"~/0x01-shell_permissions/2-groups"
+-'  1  0  ~/0x01-shell_permissions/4-empty
+|4,39,1,0,1629635747,"~/0x01-shell_permissions/4-empty"
+-'  1  0  ~/0x01-shell_permissions/4-empty
+|4,39,1,0,1629635747,"~/0x01-shell_permissions/4-empty"
+-'  1  0  ~/0x01-shell_permissions/4-empty
+|4,39,1,0,1629635747,"~/0x01-shell_permissions/4-empty"
+-'  1  0  ~/0x01-shell_permissions/4-empty
+|4,39,1,0,1629635747,"~/0x01-shell_permissions/4-empty"
+-'  1  0  ~/0x01-shell_permissions/4-empty
+|4,39,1,0,1629635747,"~/0x01-shell_permissions/4-empty"
+-'  1  0  ~/0x01-shell_permissions/4-empty
+|4,39,1,0,1629635747,"~/0x01-shell_permissions/4-empty"
+-'  1  0  ~/0x01-shell_permissions/4-empty
+|4,39,1,0,1629635747,"~/0x01-shell_permissions/4-empty"
+-'  1  0  ~/0x01-shell_permissions/4-empty
+|4,39,1,0,1629635747,"~/0x01-shell_permissions/4-empty"
+-'  1  0  ~/0x01-shell_permissions/4-empty
+|4,39,1,0,1629635747,"~/0x01-shell_permissions/4-empty"
+-'  1  0  ~/0x01-shell_permissions/4-empty
+|4,39,1,0,1629635747,"~/0x01-shell_permissions/4-empty"
+-'  1  0  ~/0x01-shell_permissions/4-empty
+|4,39,1,0,1629635747,"~/0x01-shell_permissions/4-empty"
+-'  1  0  ~/0x01-shell_permissions/4-empty
+|4,39,1,0,1629635747,"~/0x01-shell_permissions/4-empty"
+-'  1  0  ~/0x01-shell_permissions/4-empty
+|4,39,1,0,1629635747,"~/0x01-shell_permissions/4-empty"
+-'  1  0  ~/0x01-shell_permissions/4-empty
+|4,39,1,0,1629635747,"~/0x01-shell_permissions/4-empty"
+-'  1  0  ~/0x01-shell_permissions/4-empty
+|4,39,1,0,1629635747,"~/0x01-shell_permissions/4-empty"
+-'  1  0  ~/0x01-shell_permissions/4-empty
+|4,39,1,0,1629635747,"~/0x01-shell_permissions/4-empty"
 
 # History of marks within files (newest to oldest):
 
 > ~/0x01-shell_permissions/6-multiple_permissions
-	*	1629641600	0
-	"	2	8
-	^	2	9
-	.	2	8
-	+	2	8
+	*	1629648423	0
+	"	2	7
+	^	2	8
+	.	2	7
+	+	2	7
+
+> ~/.git/COMMIT_EDITMSG
+	*	1629641759	0
+	"	1	4
+	^	1	5
+	.	2	0
+	+	1	34
+	+	2	0
+	+	1	27
+	+	2	0
+	+	1	24
+	+	2	0
+	+	1	5
+	+	2	0
+	+	1	14
+	+	2	0
 
 > ~/0x01-shell_permissions/5-execute
 	*	1629637456	0
@@ -293,22 +309,6 @@
 	^	2	6
 	.	2	5
 	+	2	5
-
-> ~/.git/COMMIT_EDITMSG
-	*	1629634833	0
-	"	1	6
-	^	1	7
-	.	2	0
-	+	1	34
-	+	2	0
-	+	1	27
-	+	2	0
-	+	1	24
-	+	2	0
-	+	1	5
-	+	2	0
-	+	1	14
-	+	2	0
 
 > ~/0x01-shell_permissions/1-who_am_i
 	*	1629634702	0
