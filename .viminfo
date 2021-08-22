@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1629633243,,"wq"
+|2,0,1629633935,,"wq"
 :q
 |2,0,1629573043,,"q"
 :WQ
@@ -34,34 +34,52 @@
 |3,1,36,2,1,0,1629494919,"i"
 
 # File marks:
-'0  2  9  ~/0x01-shell_permissions/0-iam_betty
-|4,48,2,9,1629633243,"~/0x01-shell_permissions/0-iam_betty"
+'0  2  0  ~/0x01-shell_permissions/0-iam_betty
+|4,48,2,0,1629633935,"~/0x01-shell_permissions/0-iam_betty"
 '1  1  13  ~/.git/COMMIT_EDITMSG
-|4,49,1,13,1629631328,"~/.git/COMMIT_EDITMSG"
-'2  2  3  ~/0x01-shell_permissions/0-iam_betty
-|4,50,2,3,1629631201,"~/0x01-shell_permissions/0-iam_betty"
-'3  2  15  ~/0x01-shell_permissions/README.md
-|4,51,2,15,1629630975,"~/0x01-shell_permissions/README.md"
-'4  2  0  ~/README.md
-|4,52,2,0,1629630720,"~/README.md"
-'5  3  0  ~/0x01-shell_permissions/0-iam_betty
-|4,53,3,0,1629579434,"~/0x01-shell_permissions/0-iam_betty"
-'6  3  0  ~/0x01-shell_permissions/0-iam_betty
-|4,54,3,0,1629579434,"~/0x01-shell_permissions/0-iam_betty"
-'7  2  16  ~/0x00-shell_basics/14-copy_html
-|4,55,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
-'8  2  12  ~/0x00-shell_basics/13-symbolic_link
-|4,56,2,12,1629573986,"~/0x00-shell_basics/13-symbolic_link"
-'9  2  17  ~/0x00-shell_basics/12-file_type
-|4,57,2,17,1629573601,"~/0x00-shell_basics/12-file_type"
+|4,49,1,13,1629633325,"~/.git/COMMIT_EDITMSG"
+'2  1  20  ~/0x01-shell_permissions/0-iam_betty
+|4,50,1,20,1629633243,"~/0x01-shell_permissions/0-iam_betty"
+'3  2  9  ~/0x01-shell_permissions/0-iam_betty
+|4,51,2,9,1629633243,"~/0x01-shell_permissions/0-iam_betty"
+'4  1  13  ~/.git/COMMIT_EDITMSG
+|4,52,1,13,1629631328,"~/.git/COMMIT_EDITMSG"
+'5  1  14  ~/0x01-shell_permissions/0-iam_betty
+|4,53,1,14,1629631201,"~/0x01-shell_permissions/0-iam_betty"
+'6  2  3  ~/0x01-shell_permissions/0-iam_betty
+|4,54,2,3,1629631201,"~/0x01-shell_permissions/0-iam_betty"
+'7  2  15  ~/0x01-shell_permissions/README.md
+|4,55,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+'8  2  0  ~/README.md
+|4,56,2,0,1629630720,"~/README.md"
+'9  1  12  ~/0x01-shell_permissions/0-iam_betty
+|4,57,1,12,1629579434,"~/0x01-shell_permissions/0-iam_betty"
 
 # Jumplist (newest first):
+-'  2  0  ~/0x01-shell_permissions/0-iam_betty
+|4,39,2,0,1629633935,"~/0x01-shell_permissions/0-iam_betty"
+-'  1  20  ~/0x01-shell_permissions/0-iam_betty
+|4,39,1,20,1629633900,"~/0x01-shell_permissions/0-iam_betty"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1629633325,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1629633325,"~/.git/COMMIT_EDITMSG"
+-'  2  9  ~/0x01-shell_permissions/0-iam_betty
+|4,39,2,9,1629633243,"~/0x01-shell_permissions/0-iam_betty"
 -'  2  9  ~/0x01-shell_permissions/0-iam_betty
 |4,39,2,9,1629633243,"~/0x01-shell_permissions/0-iam_betty"
 -'  1  13  ~/.git/COMMIT_EDITMSG
 |4,39,1,13,1629631328,"~/.git/COMMIT_EDITMSG"
 -'  1  13  ~/.git/COMMIT_EDITMSG
 |4,39,1,13,1629631328,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1629631328,"~/.git/COMMIT_EDITMSG"
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1629631328,"~/.git/COMMIT_EDITMSG"
+-'  2  3  ~/0x01-shell_permissions/0-iam_betty
+|4,39,2,3,1629631201,"~/0x01-shell_permissions/0-iam_betty"
+-'  2  3  ~/0x01-shell_permissions/0-iam_betty
+|4,39,2,3,1629631201,"~/0x01-shell_permissions/0-iam_betty"
 -'  2  3  ~/0x01-shell_permissions/0-iam_betty
 |4,39,2,3,1629631201,"~/0x01-shell_permissions/0-iam_betty"
 -'  2  3  ~/0x01-shell_permissions/0-iam_betty
@@ -82,6 +100,102 @@
 |4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
 -'  2  15  ~/0x01-shell_permissions/README.md
 |4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  2  15  ~/0x01-shell_permissions/README.md
+|4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  2  15  ~/0x01-shell_permissions/README.md
+|4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  2  15  ~/0x01-shell_permissions/README.md
+|4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  2  15  ~/0x01-shell_permissions/README.md
+|4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  2  15  ~/0x01-shell_permissions/README.md
+|4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  2  15  ~/0x01-shell_permissions/README.md
+|4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  2  15  ~/0x01-shell_permissions/README.md
+|4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  2  15  ~/0x01-shell_permissions/README.md
+|4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  2  15  ~/0x01-shell_permissions/README.md
+|4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  2  15  ~/0x01-shell_permissions/README.md
+|4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  2  15  ~/0x01-shell_permissions/README.md
+|4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  2  15  ~/0x01-shell_permissions/README.md
+|4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  2  15  ~/0x01-shell_permissions/README.md
+|4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  2  15  ~/0x01-shell_permissions/README.md
+|4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  2  15  ~/0x01-shell_permissions/README.md
+|4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  2  15  ~/0x01-shell_permissions/README.md
+|4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  2  15  ~/0x01-shell_permissions/README.md
+|4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  2  15  ~/0x01-shell_permissions/README.md
+|4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  2  15  ~/0x01-shell_permissions/README.md
+|4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  2  15  ~/0x01-shell_permissions/README.md
+|4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  2  15  ~/0x01-shell_permissions/README.md
+|4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  2  15  ~/0x01-shell_permissions/README.md
+|4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  2  15  ~/0x01-shell_permissions/README.md
+|4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  2  15  ~/0x01-shell_permissions/README.md
+|4,39,2,15,1629630975,"~/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x01-shell_permissions/README.md
+|4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x01-shell_permissions/README.md
+|4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x01-shell_permissions/README.md
+|4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x01-shell_permissions/README.md
+|4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x01-shell_permissions/README.md
+|4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x01-shell_permissions/README.md
+|4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x01-shell_permissions/README.md
+|4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x01-shell_permissions/README.md
+|4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x01-shell_permissions/README.md
+|4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x01-shell_permissions/README.md
+|4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x01-shell_permissions/README.md
+|4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x01-shell_permissions/README.md
+|4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x01-shell_permissions/README.md
+|4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x01-shell_permissions/README.md
+|4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x01-shell_permissions/README.md
+|4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x01-shell_permissions/README.md
+|4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x01-shell_permissions/README.md
+|4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x01-shell_permissions/README.md
+|4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x01-shell_permissions/README.md
+|4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x01-shell_permissions/README.md
+|4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x01-shell_permissions/README.md
+|4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x01-shell_permissions/README.md
+|4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x01-shell_permissions/README.md
+|4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x01-shell_permissions/README.md
+|4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
 -'  1  0  ~/0x01-shell_permissions/README.md
 |4,39,1,0,1629630938,"~/0x01-shell_permissions/README.md"
 -'  1  0  ~/0x01-shell_permissions/README.md
@@ -130,149 +244,35 @@
 |4,39,2,0,1629630720,"~/README.md"
 -'  2  0  ~/README.md
 |4,39,2,0,1629630720,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1629630685,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1629630685,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1629630685,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1629630685,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1629630685,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1629630685,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1629630685,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1629630685,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1629630685,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1629630685,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1629630685,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1629630685,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1629630685,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1629630685,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1629630685,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1629630685,"~/README.md"
--'  3  0  ~/0x01-shell_permissions/0-iam_betty
-|4,39,3,0,1629579434,"~/0x01-shell_permissions/0-iam_betty"
--'  3  0  ~/0x01-shell_permissions/0-iam_betty
-|4,39,3,0,1629579434,"~/0x01-shell_permissions/0-iam_betty"
--'  3  0  ~/0x01-shell_permissions/0-iam_betty
-|4,39,3,0,1629579434,"~/0x01-shell_permissions/0-iam_betty"
--'  3  0  ~/0x01-shell_permissions/0-iam_betty
-|4,39,3,0,1629579434,"~/0x01-shell_permissions/0-iam_betty"
--'  3  0  ~/0x01-shell_permissions/0-iam_betty
-|4,39,3,0,1629579434,"~/0x01-shell_permissions/0-iam_betty"
--'  3  0  ~/0x01-shell_permissions/0-iam_betty
-|4,39,3,0,1629579434,"~/0x01-shell_permissions/0-iam_betty"
--'  3  0  ~/0x01-shell_permissions/0-iam_betty
-|4,39,3,0,1629579434,"~/0x01-shell_permissions/0-iam_betty"
--'  3  0  ~/0x01-shell_permissions/0-iam_betty
-|4,39,3,0,1629579434,"~/0x01-shell_permissions/0-iam_betty"
--'  3  0  ~/0x01-shell_permissions/0-iam_betty
-|4,39,3,0,1629579434,"~/0x01-shell_permissions/0-iam_betty"
--'  1  0  ~/0x01-shell_permissions/0-iam_betty
-|4,39,1,0,1629578400,"~/0x01-shell_permissions/0-iam_betty"
--'  1  0  ~/0x01-shell_permissions/0-iam_betty
-|4,39,1,0,1629578400,"~/0x01-shell_permissions/0-iam_betty"
--'  1  0  ~/0x01-shell_permissions/0-iam_betty
-|4,39,1,0,1629578400,"~/0x01-shell_permissions/0-iam_betty"
--'  1  0  ~/0x01-shell_permissions/0-iam_betty
-|4,39,1,0,1629578400,"~/0x01-shell_permissions/0-iam_betty"
--'  1  0  ~/0x01-shell_permissions/0-iam_betty
-|4,39,1,0,1629578400,"~/0x01-shell_permissions/0-iam_betty"
--'  1  0  ~/0x01-shell_permissions/0-iam_betty
-|4,39,1,0,1629578400,"~/0x01-shell_permissions/0-iam_betty"
--'  1  0  ~/0x01-shell_permissions/0-iam_betty
-|4,39,1,0,1629578400,"~/0x01-shell_permissions/0-iam_betty"
--'  1  0  ~/0x01-shell_permissions/0-iam_betty
-|4,39,1,0,1629578400,"~/0x01-shell_permissions/0-iam_betty"
--'  1  0  ~/0x01-shell_permissions/0-iam_betty
-|4,39,1,0,1629578400,"~/0x01-shell_permissions/0-iam_betty"
--'  1  0  ~/0x01-shell_permissions/0-iam_betty
-|4,39,1,0,1629578400,"~/0x01-shell_permissions/0-iam_betty"
--'  1  0  ~/0x01-shell_permissions/0-iam_betty
-|4,39,1,0,1629578400,"~/0x01-shell_permissions/0-iam_betty"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
--'  2  16  ~/0x00-shell_basics/14-copy_html
-|4,39,2,16,1629574886,"~/0x00-shell_basics/14-copy_html"
+-'  2  0  ~/README.md
+|4,39,2,0,1629630720,"~/README.md"
+-'  2  0  ~/README.md
+|4,39,2,0,1629630720,"~/README.md"
+-'  2  0  ~/README.md
+|4,39,2,0,1629630720,"~/README.md"
+-'  2  0  ~/README.md
+|4,39,2,0,1629630720,"~/README.md"
+-'  2  0  ~/README.md
+|4,39,2,0,1629630720,"~/README.md"
+-'  2  0  ~/README.md
+|4,39,2,0,1629630720,"~/README.md"
 
 # History of marks within files (newest to oldest):
 
 > ~/0x01-shell_permissions/0-iam_betty
-	*	1629633241	0
-	"	2	9
-	^	2	10
-	.	2	9
-	+	2	8
-	+	3	0
-	+	2	9
+	*	1629633933	0
+	"	2	0
+	^	2	0
+	.	1	11
+	+	1	19
+	+	1	12
+	+	1	11
 
 > ~/.git/COMMIT_EDITMSG
-	*	1629631327	0
+	*	1629633323	0
 	"	1	13
 	^	1	14
-	.	2	0
+	.	1	13
 	+	1	34
 	+	2	0
 	+	1	27
@@ -281,6 +281,7 @@
 	+	2	0
 	+	1	5
 	+	2	0
+	+	1	13
 
 > ~/0x01-shell_permissions/README.md
 	*	1629630972	0
