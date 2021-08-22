@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1629651526,,"wq"
+|2,0,1629651827,,"wq"
 :q
 |2,0,1629573043,,"q"
 :WQ
@@ -35,33 +35,49 @@
 
 # File marks:
 '0  2  8  ~/0x01-shell_permissions/7-everybody
-|4,48,2,8,1629651526,"~/0x01-shell_permissions/7-everybody"
+|4,48,2,8,1629651827,"~/0x01-shell_permissions/7-everybody"
 '1  1  8  ~/.git/COMMIT_EDITMSG
-|4,49,1,8,1629651422,"~/.git/COMMIT_EDITMSG"
+|4,49,1,8,1629651656,"~/.git/COMMIT_EDITMSG"
 '2  2  8  ~/0x01-shell_permissions/7-everybody
-|4,50,2,8,1629651311,"~/0x01-shell_permissions/7-everybody"
+|4,50,2,8,1629651526,"~/0x01-shell_permissions/7-everybody"
 '3  1  8  ~/.git/COMMIT_EDITMSG
-|4,51,1,8,1629650393,"~/.git/COMMIT_EDITMSG"
+|4,51,1,8,1629651422,"~/.git/COMMIT_EDITMSG"
 '4  2  8  ~/0x01-shell_permissions/7-everybody
-|4,52,2,8,1629650289,"~/0x01-shell_permissions/7-everybody"
+|4,52,2,8,1629651311,"~/0x01-shell_permissions/7-everybody"
 '5  2  8  ~/0x01-shell_permissions/7-everybody
-|4,53,2,8,1629650289,"~/0x01-shell_permissions/7-everybody"
+|4,53,2,8,1629651311,"~/0x01-shell_permissions/7-everybody"
 '6  1  8  ~/.git/COMMIT_EDITMSG
-|4,54,1,8,1629649960,"~/.git/COMMIT_EDITMSG"
+|4,54,1,8,1629650393,"~/.git/COMMIT_EDITMSG"
 '7  1  8  ~/.git/COMMIT_EDITMSG
-|4,55,1,8,1629649960,"~/.git/COMMIT_EDITMSG"
-'8  2  7  ~/0x01-shell_permissions/7-everybody
-|4,56,2,7,1629649810,"~/0x01-shell_permissions/7-everybody"
-'9  2  7  ~/0x01-shell_permissions/7-everybody
-|4,57,2,7,1629649810,"~/0x01-shell_permissions/7-everybody"
+|4,55,1,8,1629650393,"~/.git/COMMIT_EDITMSG"
+'8  2  8  ~/0x01-shell_permissions/7-everybody
+|4,56,2,8,1629650289,"~/0x01-shell_permissions/7-everybody"
+'9  2  8  ~/0x01-shell_permissions/7-everybody
+|4,57,2,8,1629650289,"~/0x01-shell_permissions/7-everybody"
 
 # Jumplist (newest first):
+-'  2  8  ~/0x01-shell_permissions/7-everybody
+|4,39,2,8,1629651827,"~/0x01-shell_permissions/7-everybody"
+-'  1  8  ~/.git/COMMIT_EDITMSG
+|4,39,1,8,1629651656,"~/.git/COMMIT_EDITMSG"
+-'  1  8  ~/.git/COMMIT_EDITMSG
+|4,39,1,8,1629651656,"~/.git/COMMIT_EDITMSG"
+-'  2  8  ~/0x01-shell_permissions/7-everybody
+|4,39,2,8,1629651526,"~/0x01-shell_permissions/7-everybody"
 -'  2  8  ~/0x01-shell_permissions/7-everybody
 |4,39,2,8,1629651526,"~/0x01-shell_permissions/7-everybody"
 -'  1  8  ~/.git/COMMIT_EDITMSG
 |4,39,1,8,1629651422,"~/.git/COMMIT_EDITMSG"
 -'  1  8  ~/.git/COMMIT_EDITMSG
 |4,39,1,8,1629651422,"~/.git/COMMIT_EDITMSG"
+-'  1  8  ~/.git/COMMIT_EDITMSG
+|4,39,1,8,1629651422,"~/.git/COMMIT_EDITMSG"
+-'  1  8  ~/.git/COMMIT_EDITMSG
+|4,39,1,8,1629651422,"~/.git/COMMIT_EDITMSG"
+-'  2  8  ~/0x01-shell_permissions/7-everybody
+|4,39,2,8,1629651311,"~/0x01-shell_permissions/7-everybody"
+-'  2  8  ~/0x01-shell_permissions/7-everybody
+|4,39,2,8,1629651311,"~/0x01-shell_permissions/7-everybody"
 -'  2  8  ~/0x01-shell_permissions/7-everybody
 |4,39,2,8,1629651311,"~/0x01-shell_permissions/7-everybody"
 -'  2  8  ~/0x01-shell_permissions/7-everybody
@@ -74,6 +90,22 @@
 |4,39,1,8,1629650393,"~/.git/COMMIT_EDITMSG"
 -'  1  8  ~/.git/COMMIT_EDITMSG
 |4,39,1,8,1629650393,"~/.git/COMMIT_EDITMSG"
+-'  1  8  ~/.git/COMMIT_EDITMSG
+|4,39,1,8,1629650393,"~/.git/COMMIT_EDITMSG"
+-'  1  8  ~/.git/COMMIT_EDITMSG
+|4,39,1,8,1629650393,"~/.git/COMMIT_EDITMSG"
+-'  1  8  ~/.git/COMMIT_EDITMSG
+|4,39,1,8,1629650393,"~/.git/COMMIT_EDITMSG"
+-'  1  8  ~/.git/COMMIT_EDITMSG
+|4,39,1,8,1629650393,"~/.git/COMMIT_EDITMSG"
+-'  2  8  ~/0x01-shell_permissions/7-everybody
+|4,39,2,8,1629650289,"~/0x01-shell_permissions/7-everybody"
+-'  2  8  ~/0x01-shell_permissions/7-everybody
+|4,39,2,8,1629650289,"~/0x01-shell_permissions/7-everybody"
+-'  2  8  ~/0x01-shell_permissions/7-everybody
+|4,39,2,8,1629650289,"~/0x01-shell_permissions/7-everybody"
+-'  2  8  ~/0x01-shell_permissions/7-everybody
+|4,39,2,8,1629650289,"~/0x01-shell_permissions/7-everybody"
 -'  2  8  ~/0x01-shell_permissions/7-everybody
 |4,39,2,8,1629650289,"~/0x01-shell_permissions/7-everybody"
 -'  2  8  ~/0x01-shell_permissions/7-everybody
@@ -98,6 +130,22 @@
 |4,39,1,8,1629649960,"~/.git/COMMIT_EDITMSG"
 -'  1  8  ~/.git/COMMIT_EDITMSG
 |4,39,1,8,1629649960,"~/.git/COMMIT_EDITMSG"
+-'  1  8  ~/.git/COMMIT_EDITMSG
+|4,39,1,8,1629649960,"~/.git/COMMIT_EDITMSG"
+-'  1  8  ~/.git/COMMIT_EDITMSG
+|4,39,1,8,1629649960,"~/.git/COMMIT_EDITMSG"
+-'  1  8  ~/.git/COMMIT_EDITMSG
+|4,39,1,8,1629649960,"~/.git/COMMIT_EDITMSG"
+-'  1  8  ~/.git/COMMIT_EDITMSG
+|4,39,1,8,1629649960,"~/.git/COMMIT_EDITMSG"
+-'  1  8  ~/.git/COMMIT_EDITMSG
+|4,39,1,8,1629649960,"~/.git/COMMIT_EDITMSG"
+-'  1  8  ~/.git/COMMIT_EDITMSG
+|4,39,1,8,1629649960,"~/.git/COMMIT_EDITMSG"
+-'  1  8  ~/.git/COMMIT_EDITMSG
+|4,39,1,8,1629649960,"~/.git/COMMIT_EDITMSG"
+-'  1  8  ~/.git/COMMIT_EDITMSG
+|4,39,1,8,1629649960,"~/.git/COMMIT_EDITMSG"
 -'  2  7  ~/0x01-shell_permissions/7-everybody
 |4,39,2,7,1629649810,"~/0x01-shell_permissions/7-everybody"
 -'  2  7  ~/0x01-shell_permissions/7-everybody
@@ -114,6 +162,38 @@
 |4,39,2,7,1629649810,"~/0x01-shell_permissions/7-everybody"
 -'  2  7  ~/0x01-shell_permissions/7-everybody
 |4,39,2,7,1629649810,"~/0x01-shell_permissions/7-everybody"
+-'  2  7  ~/0x01-shell_permissions/7-everybody
+|4,39,2,7,1629649810,"~/0x01-shell_permissions/7-everybody"
+-'  2  7  ~/0x01-shell_permissions/7-everybody
+|4,39,2,7,1629649810,"~/0x01-shell_permissions/7-everybody"
+-'  2  7  ~/0x01-shell_permissions/7-everybody
+|4,39,2,7,1629649810,"~/0x01-shell_permissions/7-everybody"
+-'  2  7  ~/0x01-shell_permissions/7-everybody
+|4,39,2,7,1629649810,"~/0x01-shell_permissions/7-everybody"
+-'  2  7  ~/0x01-shell_permissions/7-everybody
+|4,39,2,7,1629649810,"~/0x01-shell_permissions/7-everybody"
+-'  2  7  ~/0x01-shell_permissions/7-everybody
+|4,39,2,7,1629649810,"~/0x01-shell_permissions/7-everybody"
+-'  2  7  ~/0x01-shell_permissions/7-everybody
+|4,39,2,7,1629649810,"~/0x01-shell_permissions/7-everybody"
+-'  2  7  ~/0x01-shell_permissions/7-everybody
+|4,39,2,7,1629649810,"~/0x01-shell_permissions/7-everybody"
+-'  2  14  ~/0x01-shell_permissions/7-everybody
+|4,39,2,14,1629649565,"~/0x01-shell_permissions/7-everybody"
+-'  2  14  ~/0x01-shell_permissions/7-everybody
+|4,39,2,14,1629649565,"~/0x01-shell_permissions/7-everybody"
+-'  2  14  ~/0x01-shell_permissions/7-everybody
+|4,39,2,14,1629649565,"~/0x01-shell_permissions/7-everybody"
+-'  2  14  ~/0x01-shell_permissions/7-everybody
+|4,39,2,14,1629649565,"~/0x01-shell_permissions/7-everybody"
+-'  2  14  ~/0x01-shell_permissions/7-everybody
+|4,39,2,14,1629649565,"~/0x01-shell_permissions/7-everybody"
+-'  2  14  ~/0x01-shell_permissions/7-everybody
+|4,39,2,14,1629649565,"~/0x01-shell_permissions/7-everybody"
+-'  2  14  ~/0x01-shell_permissions/7-everybody
+|4,39,2,14,1629649565,"~/0x01-shell_permissions/7-everybody"
+-'  2  14  ~/0x01-shell_permissions/7-everybody
+|4,39,2,14,1629649565,"~/0x01-shell_permissions/7-everybody"
 -'  2  14  ~/0x01-shell_permissions/7-everybody
 |4,39,2,14,1629649565,"~/0x01-shell_permissions/7-everybody"
 -'  2  14  ~/0x01-shell_permissions/7-everybody
@@ -176,91 +256,11 @@
 |4,39,1,0,1629649533,"~/0x01-shell_permissions/7-everybody"
 -'  1  0  ~/0x01-shell_permissions/7-everybody
 |4,39,1,0,1629649533,"~/0x01-shell_permissions/7-everybody"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1629649396,"~/.git/COMMIT_EDITMSG"
--'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,7,1629649282,"~/0x01-shell_permissions/6-multiple_permissions"
--'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,7,1629649282,"~/0x01-shell_permissions/6-multiple_permissions"
--'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,7,1629649282,"~/0x01-shell_permissions/6-multiple_permissions"
--'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,7,1629649282,"~/0x01-shell_permissions/6-multiple_permissions"
--'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,7,1629649282,"~/0x01-shell_permissions/6-multiple_permissions"
--'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,7,1629649282,"~/0x01-shell_permissions/6-multiple_permissions"
--'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,7,1629649282,"~/0x01-shell_permissions/6-multiple_permissions"
--'  2  7  ~/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,7,1629649282,"~/0x01-shell_permissions/6-multiple_permissions"
 
 # History of marks within files (newest to oldest):
 
 > ~/0x01-shell_permissions/7-everybody
-	*	1629651523	0
+	*	1629651824	0
 	"	2	8
 	^	2	9
 	.	2	8
@@ -268,7 +268,7 @@
 	+	2	8
 
 > ~/.git/COMMIT_EDITMSG
-	*	1629651420	0
+	*	1629651653	0
 	"	1	8
 	^	1	9
 	.	2	0
