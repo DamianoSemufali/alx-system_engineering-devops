@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1629655035,,"wq"
+|2,0,1629655569,,"wq"
 :q
 |2,0,1629573043,,"q"
 :WQ
@@ -34,34 +34,50 @@
 |3,1,36,2,1,0,1629494919,"i"
 
 # File marks:
-'0  2  11  ~/0x01-shell_permissions/11-directories_permissions
-|4,48,2,11,1629655035,"~/0x01-shell_permissions/11-directories_permissions"
+'0  2  16  ~/0x01-shell_permissions/11-directories_permissions
+|4,48,2,16,1629655569,"~/0x01-shell_permissions/11-directories_permissions"
 '1  1  2  ~/.git/COMMIT_EDITMSG
-|4,49,1,2,1629654933,"~/.git/COMMIT_EDITMSG"
-'2  2  8  ~/0x01-shell_permissions/11-directories_permissions
-|4,50,2,8,1629654833,"~/0x01-shell_permissions/11-directories_permissions"
+|4,49,1,2,1629655179,"~/.git/COMMIT_EDITMSG"
+'2  2  11  ~/0x01-shell_permissions/11-directories_permissions
+|4,50,2,11,1629655035,"~/0x01-shell_permissions/11-directories_permissions"
 '3  1  2  ~/.git/COMMIT_EDITMSG
-|4,51,1,2,1629654750,"~/.git/COMMIT_EDITMSG"
-'4  1  2  ~/.git/COMMIT_EDITMSG
-|4,52,1,2,1629654647,"~/.git/COMMIT_EDITMSG"
-'5  1  2  ~/.git/COMMIT_EDITMSG
-|4,53,1,2,1629654647,"~/.git/COMMIT_EDITMSG"
-'6  2  9  ~/0x01-shell_permissions/11-directories_permissions
-|4,54,2,9,1629654538,"~/0x01-shell_permissions/11-directories_permissions"
-'7  2  9  ~/0x01-shell_permissions/11-directories_permissions
-|4,55,2,9,1629654538,"~/0x01-shell_permissions/11-directories_permissions"
+|4,51,1,2,1629654933,"~/.git/COMMIT_EDITMSG"
+'4  2  8  ~/0x01-shell_permissions/11-directories_permissions
+|4,52,2,8,1629654833,"~/0x01-shell_permissions/11-directories_permissions"
+'5  2  8  ~/0x01-shell_permissions/11-directories_permissions
+|4,53,2,8,1629654833,"~/0x01-shell_permissions/11-directories_permissions"
+'6  1  2  ~/.git/COMMIT_EDITMSG
+|4,54,1,2,1629654750,"~/.git/COMMIT_EDITMSG"
+'7  1  2  ~/.git/COMMIT_EDITMSG
+|4,55,1,2,1629654750,"~/.git/COMMIT_EDITMSG"
 '8  1  2  ~/.git/COMMIT_EDITMSG
-|4,56,1,2,1629654311,"~/.git/COMMIT_EDITMSG"
+|4,56,1,2,1629654647,"~/.git/COMMIT_EDITMSG"
 '9  1  2  ~/.git/COMMIT_EDITMSG
-|4,57,1,2,1629654311,"~/.git/COMMIT_EDITMSG"
+|4,57,1,2,1629654647,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  2  16  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,16,1629655569,"~/0x01-shell_permissions/11-directories_permissions"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1629655179,"~/.git/COMMIT_EDITMSG"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1629655179,"~/.git/COMMIT_EDITMSG"
+-'  2  11  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,11,1629655035,"~/0x01-shell_permissions/11-directories_permissions"
 -'  2  11  ~/0x01-shell_permissions/11-directories_permissions
 |4,39,2,11,1629655035,"~/0x01-shell_permissions/11-directories_permissions"
 -'  1  2  ~/.git/COMMIT_EDITMSG
 |4,39,1,2,1629654933,"~/.git/COMMIT_EDITMSG"
 -'  1  2  ~/.git/COMMIT_EDITMSG
 |4,39,1,2,1629654933,"~/.git/COMMIT_EDITMSG"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1629654933,"~/.git/COMMIT_EDITMSG"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1629654933,"~/.git/COMMIT_EDITMSG"
+-'  2  8  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,8,1629654833,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  8  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,8,1629654833,"~/0x01-shell_permissions/11-directories_permissions"
 -'  2  8  ~/0x01-shell_permissions/11-directories_permissions
 |4,39,2,8,1629654833,"~/0x01-shell_permissions/11-directories_permissions"
 -'  2  8  ~/0x01-shell_permissions/11-directories_permissions
@@ -75,6 +91,20 @@
 -'  1  2  ~/.git/COMMIT_EDITMSG
 |4,39,1,2,1629654750,"~/.git/COMMIT_EDITMSG"
 -'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1629654750,"~/.git/COMMIT_EDITMSG"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1629654750,"~/.git/COMMIT_EDITMSG"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1629654750,"~/.git/COMMIT_EDITMSG"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1629654750,"~/.git/COMMIT_EDITMSG"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1629654647,"~/.git/COMMIT_EDITMSG"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1629654647,"~/.git/COMMIT_EDITMSG"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1629654647,"~/.git/COMMIT_EDITMSG"
+-'  1  2  ~/.git/COMMIT_EDITMSG
 |4,39,1,2,1629654647,"~/.git/COMMIT_EDITMSG"
 -'  1  2  ~/.git/COMMIT_EDITMSG
 |4,39,1,2,1629654647,"~/.git/COMMIT_EDITMSG"
@@ -82,6 +112,8 @@
 |4,39,1,2,1629654647,"~/.git/COMMIT_EDITMSG"
 -'  1  2  ~/.git/COMMIT_EDITMSG
 |4,39,1,2,1629654647,"~/.git/COMMIT_EDITMSG"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1629654647,"~/.git/COMMIT_EDITMSG"
 -'  2  9  ~/0x01-shell_permissions/11-directories_permissions
 |4,39,2,9,1629654538,"~/0x01-shell_permissions/11-directories_permissions"
 -'  2  9  ~/0x01-shell_permissions/11-directories_permissions
@@ -98,6 +130,38 @@
 |4,39,2,9,1629654538,"~/0x01-shell_permissions/11-directories_permissions"
 -'  2  9  ~/0x01-shell_permissions/11-directories_permissions
 |4,39,2,9,1629654538,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  9  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,9,1629654538,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  9  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,9,1629654538,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  9  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,9,1629654538,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  9  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,9,1629654538,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  9  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,9,1629654538,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  9  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,9,1629654538,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  9  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,9,1629654538,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  9  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,9,1629654538,"~/0x01-shell_permissions/11-directories_permissions"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1629654311,"~/.git/COMMIT_EDITMSG"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1629654311,"~/.git/COMMIT_EDITMSG"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1629654311,"~/.git/COMMIT_EDITMSG"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1629654311,"~/.git/COMMIT_EDITMSG"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1629654311,"~/.git/COMMIT_EDITMSG"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1629654311,"~/.git/COMMIT_EDITMSG"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1629654311,"~/.git/COMMIT_EDITMSG"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1629654311,"~/.git/COMMIT_EDITMSG"
 -'  1  2  ~/.git/COMMIT_EDITMSG
 |4,39,1,2,1629654311,"~/.git/COMMIT_EDITMSG"
 -'  1  2  ~/.git/COMMIT_EDITMSG
@@ -146,6 +210,38 @@
 |4,39,2,4,1629654176,"~/0x01-shell_permissions/11-directories_permissions"
 -'  2  4  ~/0x01-shell_permissions/11-directories_permissions
 |4,39,2,4,1629654176,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  4  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,4,1629654176,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  4  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,4,1629654176,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  4  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,4,1629654176,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  4  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,4,1629654176,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  4  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,4,1629654176,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  4  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,4,1629654176,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  4  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,4,1629654176,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  4  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,4,1629654176,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  4  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,4,1629654176,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  4  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,4,1629654176,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  4  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,4,1629654176,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  4  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,4,1629654176,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  4  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,4,1629654176,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  4  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,4,1629654176,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  4  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,4,1629654176,"~/0x01-shell_permissions/11-directories_permissions"
+-'  2  4  ~/0x01-shell_permissions/11-directories_permissions
+|4,39,2,4,1629654176,"~/0x01-shell_permissions/11-directories_permissions"
 -'  2  8  ~/0x01-shell_permissions/11-directories_permissions
 |4,39,2,8,1629653867,"~/0x01-shell_permissions/11-directories_permissions"
 -'  2  8  ~/0x01-shell_permissions/11-directories_permissions
@@ -160,114 +256,18 @@
 |4,39,2,8,1629653867,"~/0x01-shell_permissions/11-directories_permissions"
 -'  2  8  ~/0x01-shell_permissions/11-directories_permissions
 |4,39,2,8,1629653867,"~/0x01-shell_permissions/11-directories_permissions"
--'  2  8  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,2,8,1629653867,"~/0x01-shell_permissions/11-directories_permissions"
--'  2  8  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,2,8,1629653867,"~/0x01-shell_permissions/11-directories_permissions"
--'  2  8  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,2,8,1629653867,"~/0x01-shell_permissions/11-directories_permissions"
--'  2  8  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,2,8,1629653867,"~/0x01-shell_permissions/11-directories_permissions"
--'  2  8  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,2,8,1629653867,"~/0x01-shell_permissions/11-directories_permissions"
--'  2  8  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,2,8,1629653867,"~/0x01-shell_permissions/11-directories_permissions"
--'  2  8  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,2,8,1629653867,"~/0x01-shell_permissions/11-directories_permissions"
--'  2  8  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,2,8,1629653867,"~/0x01-shell_permissions/11-directories_permissions"
--'  2  8  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,2,8,1629653867,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
--'  1  0  ~/0x01-shell_permissions/11-directories_permissions
-|4,39,1,0,1629653759,"~/0x01-shell_permissions/11-directories_permissions"
 
 # History of marks within files (newest to oldest):
 
 > ~/0x01-shell_permissions/11-directories_permissions
-	*	1629655026	0
-	"	2	11
-	^	2	12
-	.	2	11
-	+	2	11
+	*	1629655567	0
+	"	2	16
+	^	2	17
+	.	2	17
+	+	2	17
 
 > ~/.git/COMMIT_EDITMSG
-	*	1629654929	0
+	*	1629655177	0
 	"	1	2
 	^	1	3
 	.	2	0
