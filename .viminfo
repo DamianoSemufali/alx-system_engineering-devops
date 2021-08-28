@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1630121410,,"wq"
+|2,0,1630122318,,"wq"
 :q
 |2,0,1630116603,,"q"
 :WQ
@@ -34,34 +34,108 @@
 |3,1,36,2,1,0,1629494919,"i"
 
 # File marks:
-'0  2  24  ~/0x02-shell_redirections/7-file
-|4,48,2,24,1630121410,"~/0x02-shell_redirections/7-file"
-'1  1  3  ~/.git/COMMIT_EDITMSG
-|4,49,1,3,1630121315,"~/.git/COMMIT_EDITMSG"
-'2  2  24  ~/0x02-shell_redirections/7-file
-|4,50,2,24,1630121235,"~/0x02-shell_redirections/7-file"
-'3  1  3  ~/.git/COMMIT_EDITMSG
-|4,51,1,3,1630120957,"~/.git/COMMIT_EDITMSG"
-'4  2  61  ~/0x02-shell_redirections/7-file
-|4,52,2,61,1630120878,"~/0x02-shell_redirections/7-file"
-'5  2  61  ~/0x02-shell_redirections/7-file
-|4,53,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+'0  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,48,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
+'1  2  22  ~/0x02-shell_redirections/8-cwd_state
+|4,49,2,22,1630121796,"~/0x02-shell_redirections/8-cwd_state"
+'2  1  3  ~/.git/COMMIT_EDITMSG
+|4,50,1,3,1630121462,"~/.git/COMMIT_EDITMSG"
+'3  2  24  ~/0x02-shell_redirections/7-file
+|4,51,2,24,1630121410,"~/0x02-shell_redirections/7-file"
+'4  1  3  ~/.git/COMMIT_EDITMSG
+|4,52,1,3,1630121315,"~/.git/COMMIT_EDITMSG"
+'5  2  24  ~/0x02-shell_redirections/7-file
+|4,53,2,24,1630121235,"~/0x02-shell_redirections/7-file"
 '6  1  3  ~/.git/COMMIT_EDITMSG
-|4,54,1,3,1630120678,"~/.git/COMMIT_EDITMSG"
+|4,54,1,3,1630120957,"~/.git/COMMIT_EDITMSG"
 '7  1  3  ~/.git/COMMIT_EDITMSG
-|4,55,1,3,1630120678,"~/.git/COMMIT_EDITMSG"
-'8  2  5  ~/0x02-shell_redirections/7-file
-|4,56,2,5,1630120558,"~/0x02-shell_redirections/7-file"
-'9  2  5  ~/0x02-shell_redirections/7-file
-|4,57,2,5,1630120558,"~/0x02-shell_redirections/7-file"
+|4,55,1,3,1630120957,"~/.git/COMMIT_EDITMSG"
+'8  2  61  ~/0x02-shell_redirections/7-file
+|4,56,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+'9  2  61  ~/0x02-shell_redirections/7-file
+|4,57,2,61,1630120878,"~/0x02-shell_redirections/7-file"
 
 # Jumplist (newest first):
+-'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,1,0,1630122285,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  2  22  ~/0x02-shell_redirections/8-cwd_state
+|4,39,2,22,1630121796,"~/0x02-shell_redirections/8-cwd_state"
+-'  2  22  ~/0x02-shell_redirections/8-cwd_state
+|4,39,2,22,1630121796,"~/0x02-shell_redirections/8-cwd_state"
+-'  1  0  ~/0x02-shell_redirections/8-cwd_state
+|4,39,1,0,1630121757,"~/0x02-shell_redirections/8-cwd_state"
+-'  1  0  ~/0x02-shell_redirections/8-cwd_state
+|4,39,1,0,1630121757,"~/0x02-shell_redirections/8-cwd_state"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630121462,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630121462,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630121462,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630121462,"~/.git/COMMIT_EDITMSG"
+-'  2  24  ~/0x02-shell_redirections/7-file
+|4,39,2,24,1630121410,"~/0x02-shell_redirections/7-file"
+-'  2  24  ~/0x02-shell_redirections/7-file
+|4,39,2,24,1630121410,"~/0x02-shell_redirections/7-file"
+-'  2  24  ~/0x02-shell_redirections/7-file
+|4,39,2,24,1630121410,"~/0x02-shell_redirections/7-file"
+-'  2  24  ~/0x02-shell_redirections/7-file
+|4,39,2,24,1630121410,"~/0x02-shell_redirections/7-file"
+-'  2  24  ~/0x02-shell_redirections/7-file
+|4,39,2,24,1630121410,"~/0x02-shell_redirections/7-file"
+-'  2  24  ~/0x02-shell_redirections/7-file
+|4,39,2,24,1630121410,"~/0x02-shell_redirections/7-file"
+-'  2  24  ~/0x02-shell_redirections/7-file
+|4,39,2,24,1630121410,"~/0x02-shell_redirections/7-file"
 -'  2  24  ~/0x02-shell_redirections/7-file
 |4,39,2,24,1630121410,"~/0x02-shell_redirections/7-file"
 -'  1  3  ~/.git/COMMIT_EDITMSG
 |4,39,1,3,1630121315,"~/.git/COMMIT_EDITMSG"
 -'  1  3  ~/.git/COMMIT_EDITMSG
 |4,39,1,3,1630121315,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630121315,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630121315,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630121315,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630121315,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630121315,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630121315,"~/.git/COMMIT_EDITMSG"
+-'  2  24  ~/0x02-shell_redirections/7-file
+|4,39,2,24,1630121235,"~/0x02-shell_redirections/7-file"
+-'  2  24  ~/0x02-shell_redirections/7-file
+|4,39,2,24,1630121235,"~/0x02-shell_redirections/7-file"
+-'  2  24  ~/0x02-shell_redirections/7-file
+|4,39,2,24,1630121235,"~/0x02-shell_redirections/7-file"
+-'  2  24  ~/0x02-shell_redirections/7-file
+|4,39,2,24,1630121235,"~/0x02-shell_redirections/7-file"
+-'  2  24  ~/0x02-shell_redirections/7-file
+|4,39,2,24,1630121235,"~/0x02-shell_redirections/7-file"
+-'  2  24  ~/0x02-shell_redirections/7-file
+|4,39,2,24,1630121235,"~/0x02-shell_redirections/7-file"
+-'  2  24  ~/0x02-shell_redirections/7-file
+|4,39,2,24,1630121235,"~/0x02-shell_redirections/7-file"
+-'  2  24  ~/0x02-shell_redirections/7-file
+|4,39,2,24,1630121235,"~/0x02-shell_redirections/7-file"
+-'  2  24  ~/0x02-shell_redirections/7-file
+|4,39,2,24,1630121235,"~/0x02-shell_redirections/7-file"
+-'  2  24  ~/0x02-shell_redirections/7-file
+|4,39,2,24,1630121235,"~/0x02-shell_redirections/7-file"
+-'  2  24  ~/0x02-shell_redirections/7-file
+|4,39,2,24,1630121235,"~/0x02-shell_redirections/7-file"
+-'  2  24  ~/0x02-shell_redirections/7-file
+|4,39,2,24,1630121235,"~/0x02-shell_redirections/7-file"
+-'  2  24  ~/0x02-shell_redirections/7-file
+|4,39,2,24,1630121235,"~/0x02-shell_redirections/7-file"
+-'  2  24  ~/0x02-shell_redirections/7-file
+|4,39,2,24,1630121235,"~/0x02-shell_redirections/7-file"
 -'  2  24  ~/0x02-shell_redirections/7-file
 |4,39,2,24,1630121235,"~/0x02-shell_redirections/7-file"
 -'  2  24  ~/0x02-shell_redirections/7-file
@@ -74,6 +148,86 @@
 |4,39,1,3,1630120957,"~/.git/COMMIT_EDITMSG"
 -'  1  3  ~/.git/COMMIT_EDITMSG
 |4,39,1,3,1630120957,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630120957,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630120957,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630120957,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630120957,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630120957,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630120957,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630120957,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630120957,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630120957,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630120957,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630120957,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630120957,"~/.git/COMMIT_EDITMSG"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
+-'  2  61  ~/0x02-shell_redirections/7-file
+|4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
 -'  2  61  ~/0x02-shell_redirections/7-file
 |4,39,2,61,1630120878,"~/0x02-shell_redirections/7-file"
 -'  2  61  ~/0x02-shell_redirections/7-file
@@ -98,176 +252,29 @@
 |4,39,1,3,1630120678,"~/.git/COMMIT_EDITMSG"
 -'  1  3  ~/.git/COMMIT_EDITMSG
 |4,39,1,3,1630120678,"~/.git/COMMIT_EDITMSG"
--'  2  5  ~/0x02-shell_redirections/7-file
-|4,39,2,5,1630120558,"~/0x02-shell_redirections/7-file"
--'  2  5  ~/0x02-shell_redirections/7-file
-|4,39,2,5,1630120558,"~/0x02-shell_redirections/7-file"
--'  2  5  ~/0x02-shell_redirections/7-file
-|4,39,2,5,1630120558,"~/0x02-shell_redirections/7-file"
--'  2  5  ~/0x02-shell_redirections/7-file
-|4,39,2,5,1630120558,"~/0x02-shell_redirections/7-file"
--'  2  5  ~/0x02-shell_redirections/7-file
-|4,39,2,5,1630120558,"~/0x02-shell_redirections/7-file"
--'  2  5  ~/0x02-shell_redirections/7-file
-|4,39,2,5,1630120558,"~/0x02-shell_redirections/7-file"
--'  2  5  ~/0x02-shell_redirections/7-file
-|4,39,2,5,1630120558,"~/0x02-shell_redirections/7-file"
--'  2  5  ~/0x02-shell_redirections/7-file
-|4,39,2,5,1630120558,"~/0x02-shell_redirections/7-file"
--'  2  58  ~/0x02-shell_redirections/7-file
-|4,39,2,58,1630120374,"~/0x02-shell_redirections/7-file"
--'  2  58  ~/0x02-shell_redirections/7-file
-|4,39,2,58,1630120374,"~/0x02-shell_redirections/7-file"
--'  2  58  ~/0x02-shell_redirections/7-file
-|4,39,2,58,1630120374,"~/0x02-shell_redirections/7-file"
--'  2  58  ~/0x02-shell_redirections/7-file
-|4,39,2,58,1630120374,"~/0x02-shell_redirections/7-file"
--'  2  58  ~/0x02-shell_redirections/7-file
-|4,39,2,58,1630120374,"~/0x02-shell_redirections/7-file"
--'  2  58  ~/0x02-shell_redirections/7-file
-|4,39,2,58,1630120374,"~/0x02-shell_redirections/7-file"
--'  2  58  ~/0x02-shell_redirections/7-file
-|4,39,2,58,1630120374,"~/0x02-shell_redirections/7-file"
--'  2  58  ~/0x02-shell_redirections/7-file
-|4,39,2,58,1630120374,"~/0x02-shell_redirections/7-file"
--'  1  0  ~/0x02-shell_redirections/7-file
-|4,39,1,0,1630120281,"~/0x02-shell_redirections/7-file"
--'  1  0  ~/0x02-shell_redirections/7-file
-|4,39,1,0,1630120281,"~/0x02-shell_redirections/7-file"
--'  1  0  ~/0x02-shell_redirections/7-file
-|4,39,1,0,1630120281,"~/0x02-shell_redirections/7-file"
--'  1  0  ~/0x02-shell_redirections/7-file
-|4,39,1,0,1630120281,"~/0x02-shell_redirections/7-file"
--'  1  0  ~/0x02-shell_redirections/7-file
-|4,39,1,0,1630120281,"~/0x02-shell_redirections/7-file"
--'  1  0  ~/0x02-shell_redirections/7-file
-|4,39,1,0,1630120281,"~/0x02-shell_redirections/7-file"
--'  1  0  ~/0x02-shell_redirections/7-file
-|4,39,1,0,1630120281,"~/0x02-shell_redirections/7-file"
--'  1  0  ~/0x02-shell_redirections/7-file
-|4,39,1,0,1630120281,"~/0x02-shell_redirections/7-file"
--'  1  0  ~/0x02-shell_redirections/7-file
-|4,39,1,0,1630120281,"~/0x02-shell_redirections/7-file"
--'  1  0  ~/0x02-shell_redirections/7-file
-|4,39,1,0,1630120281,"~/0x02-shell_redirections/7-file"
--'  1  0  ~/0x02-shell_redirections/7-file
-|4,39,1,0,1630120281,"~/0x02-shell_redirections/7-file"
--'  1  0  ~/0x02-shell_redirections/7-file
-|4,39,1,0,1630120281,"~/0x02-shell_redirections/7-file"
--'  1  0  ~/0x02-shell_redirections/7-file
-|4,39,1,0,1630120281,"~/0x02-shell_redirections/7-file"
--'  1  0  ~/0x02-shell_redirections/7-file
-|4,39,1,0,1630120281,"~/0x02-shell_redirections/7-file"
--'  1  0  ~/0x02-shell_redirections/7-file
-|4,39,1,0,1630120281,"~/0x02-shell_redirections/7-file"
--'  1  0  ~/0x02-shell_redirections/7-file
-|4,39,1,0,1630120281,"~/0x02-shell_redirections/7-file"
--'  1  0  ~/0x02-shell_redirections/7-file
-|4,39,1,0,1630120281,"~/0x02-shell_redirections/7-file"
--'  1  0  ~/0x02-shell_redirections/7-file
-|4,39,1,0,1630120281,"~/0x02-shell_redirections/7-file"
--'  1  0  ~/0x02-shell_redirections/7-file
-|4,39,1,0,1630120281,"~/0x02-shell_redirections/7-file"
--'  1  0  ~/0x02-shell_redirections/7-file
-|4,39,1,0,1630120281,"~/0x02-shell_redirections/7-file"
--'  1  0  ~/0x02-shell_redirections/7-file
-|4,39,1,0,1630120281,"~/0x02-shell_redirections/7-file"
--'  1  0  ~/0x02-shell_redirections/7-file
-|4,39,1,0,1630120281,"~/0x02-shell_redirections/7-file"
--'  1  0  ~/0x02-shell_redirections/7-file
-|4,39,1,0,1630120281,"~/0x02-shell_redirections/7-file"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
--'  2  22  ~/0x02-shell_redirections/6-third_line
-|4,39,2,22,1630119875,"~/0x02-shell_redirections/6-third_line"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630120678,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630120678,"~/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
 
-> ~/0x02-shell_redirections/7-file
-	*	1630121409	0
-	"	2	24
-	^	2	25
-	.	2	24
-	+	2	24
+> ~/0x02-shell_redirections/9-duplicate_last_line
+	*	1630122317	0
+	"	2	21
+	^	2	22
+	.	3	0
+	+	3	0
+
+> ~/0x02-shell_redirections/8-cwd_state
+	*	1630121793	0
+	"	2	22
+	^	2	23
+	.	2	22
+	+	2	22
 
 > ~/.git/COMMIT_EDITMSG
-	*	1630121312	0
+	*	1630121461	0
 	"	1	3
 	^	1	4
 	.	2	0
@@ -290,6 +297,13 @@
 	+	2	0
 	+	1	4
 	+	2	0
+
+> ~/0x02-shell_redirections/7-file
+	*	1630121409	0
+	"	2	24
+	^	2	25
+	.	2	24
+	+	2	24
 
 > ~/0x02-shell_redirections/6-third_line
 	*	1630119872	0
