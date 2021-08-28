@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1630135245,,"wq"
+|2,0,1630135826,,"wq"
 :q
 |2,0,1630116603,,"q"
 :WQ
@@ -34,36 +34,80 @@
 |3,1,36,2,1,0,1629494919,"i"
 
 # File marks:
-'0  2  13  ~/0x02-shell_redirections/13-unique
-|4,48,2,13,1630135245,"~/0x02-shell_redirections/13-unique"
-'1  2  16  ~/0x02-shell_redirections/12-newest_files
-|4,49,2,16,1630126017,"~/0x02-shell_redirections/12-newest_files"
-'2  2  31  ~/0x02-shell_redirections/11-directories
-|4,50,2,31,1630125152,"~/0x02-shell_redirections/11-directories"
-'3  2  34  ~/0x02-shell_redirections/10-no_more_js
-|4,51,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
-'4  1  18  ~/.git/COMMIT_EDITMSG
-|4,52,1,18,1630122468,"~/.git/COMMIT_EDITMSG"
-'5  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,53,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
-'6  2  22  ~/0x02-shell_redirections/8-cwd_state
-|4,54,2,22,1630121796,"~/0x02-shell_redirections/8-cwd_state"
-'7  1  3  ~/.git/COMMIT_EDITMSG
-|4,55,1,3,1630121462,"~/.git/COMMIT_EDITMSG"
-'8  2  24  ~/0x02-shell_redirections/7-file
-|4,56,2,24,1630121410,"~/0x02-shell_redirections/7-file"
+'0  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,48,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
+'1  1  5  ~/.git/COMMIT_EDITMSG
+|4,49,1,5,1630135354,"~/.git/COMMIT_EDITMSG"
+'2  2  13  ~/0x02-shell_redirections/13-unique
+|4,50,2,13,1630135245,"~/0x02-shell_redirections/13-unique"
+'3  2  16  ~/0x02-shell_redirections/12-newest_files
+|4,51,2,16,1630126017,"~/0x02-shell_redirections/12-newest_files"
+'4  2  31  ~/0x02-shell_redirections/11-directories
+|4,52,2,31,1630125152,"~/0x02-shell_redirections/11-directories"
+'5  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,53,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+'6  1  18  ~/.git/COMMIT_EDITMSG
+|4,54,1,18,1630122468,"~/.git/COMMIT_EDITMSG"
+'7  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,55,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
+'8  2  22  ~/0x02-shell_redirections/8-cwd_state
+|4,56,2,22,1630121796,"~/0x02-shell_redirections/8-cwd_state"
 '9  1  3  ~/.git/COMMIT_EDITMSG
-|4,57,1,3,1630121315,"~/.git/COMMIT_EDITMSG"
+|4,57,1,3,1630121462,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
+-'  1  0  ~/0x02-shell_redirections/14-findthatword
+|4,39,1,0,1630135701,"~/0x02-shell_redirections/14-findthatword"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630135354,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630135354,"~/.git/COMMIT_EDITMSG"
 -'  2  13  ~/0x02-shell_redirections/13-unique
 |4,39,2,13,1630135245,"~/0x02-shell_redirections/13-unique"
+-'  2  13  ~/0x02-shell_redirections/13-unique
+|4,39,2,13,1630135245,"~/0x02-shell_redirections/13-unique"
+-'  2  13  ~/0x02-shell_redirections/13-unique
+|4,39,2,13,1630135245,"~/0x02-shell_redirections/13-unique"
+-'  2  13  ~/0x02-shell_redirections/13-unique
+|4,39,2,13,1630135245,"~/0x02-shell_redirections/13-unique"
+-'  1  0  ~/0x02-shell_redirections/13-unique
+|4,39,1,0,1630135154,"~/0x02-shell_redirections/13-unique"
+-'  1  0  ~/0x02-shell_redirections/13-unique
+|4,39,1,0,1630135154,"~/0x02-shell_redirections/13-unique"
+-'  1  0  ~/0x02-shell_redirections/13-unique
+|4,39,1,0,1630135154,"~/0x02-shell_redirections/13-unique"
 -'  1  0  ~/0x02-shell_redirections/13-unique
 |4,39,1,0,1630135154,"~/0x02-shell_redirections/13-unique"
 -'  2  16  ~/0x02-shell_redirections/12-newest_files
 |4,39,2,16,1630126017,"~/0x02-shell_redirections/12-newest_files"
 -'  2  16  ~/0x02-shell_redirections/12-newest_files
 |4,39,2,16,1630126017,"~/0x02-shell_redirections/12-newest_files"
+-'  2  16  ~/0x02-shell_redirections/12-newest_files
+|4,39,2,16,1630126017,"~/0x02-shell_redirections/12-newest_files"
+-'  2  16  ~/0x02-shell_redirections/12-newest_files
+|4,39,2,16,1630126017,"~/0x02-shell_redirections/12-newest_files"
+-'  2  16  ~/0x02-shell_redirections/12-newest_files
+|4,39,2,16,1630126017,"~/0x02-shell_redirections/12-newest_files"
+-'  2  16  ~/0x02-shell_redirections/12-newest_files
+|4,39,2,16,1630126017,"~/0x02-shell_redirections/12-newest_files"
+-'  2  16  ~/0x02-shell_redirections/12-newest_files
+|4,39,2,16,1630126017,"~/0x02-shell_redirections/12-newest_files"
+-'  2  16  ~/0x02-shell_redirections/12-newest_files
+|4,39,2,16,1630126017,"~/0x02-shell_redirections/12-newest_files"
+-'  1  0  ~/0x02-shell_redirections/12-newest_files
+|4,39,1,0,1630125946,"~/0x02-shell_redirections/12-newest_files"
+-'  1  0  ~/0x02-shell_redirections/12-newest_files
+|4,39,1,0,1630125946,"~/0x02-shell_redirections/12-newest_files"
+-'  1  0  ~/0x02-shell_redirections/12-newest_files
+|4,39,1,0,1630125946,"~/0x02-shell_redirections/12-newest_files"
+-'  1  0  ~/0x02-shell_redirections/12-newest_files
+|4,39,1,0,1630125946,"~/0x02-shell_redirections/12-newest_files"
+-'  1  0  ~/0x02-shell_redirections/12-newest_files
+|4,39,1,0,1630125946,"~/0x02-shell_redirections/12-newest_files"
+-'  1  0  ~/0x02-shell_redirections/12-newest_files
+|4,39,1,0,1630125946,"~/0x02-shell_redirections/12-newest_files"
 -'  1  0  ~/0x02-shell_redirections/12-newest_files
 |4,39,1,0,1630125946,"~/0x02-shell_redirections/12-newest_files"
 -'  1  0  ~/0x02-shell_redirections/12-newest_files
@@ -76,6 +120,54 @@
 |4,39,2,31,1630125152,"~/0x02-shell_redirections/11-directories"
 -'  2  31  ~/0x02-shell_redirections/11-directories
 |4,39,2,31,1630125152,"~/0x02-shell_redirections/11-directories"
+-'  2  31  ~/0x02-shell_redirections/11-directories
+|4,39,2,31,1630125152,"~/0x02-shell_redirections/11-directories"
+-'  2  31  ~/0x02-shell_redirections/11-directories
+|4,39,2,31,1630125152,"~/0x02-shell_redirections/11-directories"
+-'  2  31  ~/0x02-shell_redirections/11-directories
+|4,39,2,31,1630125152,"~/0x02-shell_redirections/11-directories"
+-'  2  31  ~/0x02-shell_redirections/11-directories
+|4,39,2,31,1630125152,"~/0x02-shell_redirections/11-directories"
+-'  2  31  ~/0x02-shell_redirections/11-directories
+|4,39,2,31,1630125152,"~/0x02-shell_redirections/11-directories"
+-'  2  31  ~/0x02-shell_redirections/11-directories
+|4,39,2,31,1630125152,"~/0x02-shell_redirections/11-directories"
+-'  2  31  ~/0x02-shell_redirections/11-directories
+|4,39,2,31,1630125152,"~/0x02-shell_redirections/11-directories"
+-'  2  31  ~/0x02-shell_redirections/11-directories
+|4,39,2,31,1630125152,"~/0x02-shell_redirections/11-directories"
+-'  2  31  ~/0x02-shell_redirections/11-directories
+|4,39,2,31,1630125152,"~/0x02-shell_redirections/11-directories"
+-'  2  31  ~/0x02-shell_redirections/11-directories
+|4,39,2,31,1630125152,"~/0x02-shell_redirections/11-directories"
+-'  2  31  ~/0x02-shell_redirections/11-directories
+|4,39,2,31,1630125152,"~/0x02-shell_redirections/11-directories"
+-'  2  31  ~/0x02-shell_redirections/11-directories
+|4,39,2,31,1630125152,"~/0x02-shell_redirections/11-directories"
+-'  1  0  ~/0x02-shell_redirections/11-directories
+|4,39,1,0,1630125053,"~/0x02-shell_redirections/11-directories"
+-'  1  0  ~/0x02-shell_redirections/11-directories
+|4,39,1,0,1630125053,"~/0x02-shell_redirections/11-directories"
+-'  1  0  ~/0x02-shell_redirections/11-directories
+|4,39,1,0,1630125053,"~/0x02-shell_redirections/11-directories"
+-'  1  0  ~/0x02-shell_redirections/11-directories
+|4,39,1,0,1630125053,"~/0x02-shell_redirections/11-directories"
+-'  1  0  ~/0x02-shell_redirections/11-directories
+|4,39,1,0,1630125053,"~/0x02-shell_redirections/11-directories"
+-'  1  0  ~/0x02-shell_redirections/11-directories
+|4,39,1,0,1630125053,"~/0x02-shell_redirections/11-directories"
+-'  1  0  ~/0x02-shell_redirections/11-directories
+|4,39,1,0,1630125053,"~/0x02-shell_redirections/11-directories"
+-'  1  0  ~/0x02-shell_redirections/11-directories
+|4,39,1,0,1630125053,"~/0x02-shell_redirections/11-directories"
+-'  1  0  ~/0x02-shell_redirections/11-directories
+|4,39,1,0,1630125053,"~/0x02-shell_redirections/11-directories"
+-'  1  0  ~/0x02-shell_redirections/11-directories
+|4,39,1,0,1630125053,"~/0x02-shell_redirections/11-directories"
+-'  1  0  ~/0x02-shell_redirections/11-directories
+|4,39,1,0,1630125053,"~/0x02-shell_redirections/11-directories"
+-'  1  0  ~/0x02-shell_redirections/11-directories
+|4,39,1,0,1630125053,"~/0x02-shell_redirections/11-directories"
 -'  1  0  ~/0x02-shell_redirections/11-directories
 |4,39,1,0,1630125053,"~/0x02-shell_redirections/11-directories"
 -'  1  0  ~/0x02-shell_redirections/11-directories
@@ -100,6 +192,54 @@
 |4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
 -'  2  34  ~/0x02-shell_redirections/10-no_more_js
 |4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+-'  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+-'  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+-'  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+-'  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+-'  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+-'  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+-'  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+-'  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+-'  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+-'  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+-'  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+-'  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+-'  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+-'  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+-'  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+-'  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+-'  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+-'  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+-'  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+-'  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+-'  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+-'  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+-'  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
+-'  2  34  ~/0x02-shell_redirections/10-no_more_js
+|4,39,2,34,1630123108,"~/0x02-shell_redirections/10-no_more_js"
 -'  1  0  ~/0x02-shell_redirections/10-no_more_js
 |4,39,1,0,1630123050,"~/0x02-shell_redirections/10-no_more_js"
 -'  1  0  ~/0x02-shell_redirections/10-no_more_js
@@ -116,148 +256,42 @@
 |4,39,1,0,1630123050,"~/0x02-shell_redirections/10-no_more_js"
 -'  1  0  ~/0x02-shell_redirections/10-no_more_js
 |4,39,1,0,1630123050,"~/0x02-shell_redirections/10-no_more_js"
--'  1  18  ~/.git/COMMIT_EDITMSG
-|4,39,1,18,1630122468,"~/.git/COMMIT_EDITMSG"
--'  1  18  ~/.git/COMMIT_EDITMSG
-|4,39,1,18,1630122468,"~/.git/COMMIT_EDITMSG"
--'  1  18  ~/.git/COMMIT_EDITMSG
-|4,39,1,18,1630122468,"~/.git/COMMIT_EDITMSG"
--'  1  18  ~/.git/COMMIT_EDITMSG
-|4,39,1,18,1630122468,"~/.git/COMMIT_EDITMSG"
--'  1  18  ~/.git/COMMIT_EDITMSG
-|4,39,1,18,1630122468,"~/.git/COMMIT_EDITMSG"
--'  1  18  ~/.git/COMMIT_EDITMSG
-|4,39,1,18,1630122468,"~/.git/COMMIT_EDITMSG"
--'  1  18  ~/.git/COMMIT_EDITMSG
-|4,39,1,18,1630122468,"~/.git/COMMIT_EDITMSG"
--'  1  18  ~/.git/COMMIT_EDITMSG
-|4,39,1,18,1630122468,"~/.git/COMMIT_EDITMSG"
--'  1  18  ~/.git/COMMIT_EDITMSG
-|4,39,1,18,1630122468,"~/.git/COMMIT_EDITMSG"
--'  1  18  ~/.git/COMMIT_EDITMSG
-|4,39,1,18,1630122468,"~/.git/COMMIT_EDITMSG"
--'  1  18  ~/.git/COMMIT_EDITMSG
-|4,39,1,18,1630122468,"~/.git/COMMIT_EDITMSG"
--'  1  18  ~/.git/COMMIT_EDITMSG
-|4,39,1,18,1630122468,"~/.git/COMMIT_EDITMSG"
--'  1  18  ~/.git/COMMIT_EDITMSG
-|4,39,1,18,1630122468,"~/.git/COMMIT_EDITMSG"
--'  1  18  ~/.git/COMMIT_EDITMSG
-|4,39,1,18,1630122468,"~/.git/COMMIT_EDITMSG"
--'  1  18  ~/.git/COMMIT_EDITMSG
-|4,39,1,18,1630122468,"~/.git/COMMIT_EDITMSG"
--'  1  18  ~/.git/COMMIT_EDITMSG
-|4,39,1,18,1630122468,"~/.git/COMMIT_EDITMSG"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1630122318,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,1,0,1630122285,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,1,0,1630122285,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,1,0,1630122285,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,1,0,1630122285,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,1,0,1630122285,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,1,0,1630122285,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,1,0,1630122285,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,1,0,1630122285,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,1,0,1630122285,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,1,0,1630122285,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,1,0,1630122285,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,1,0,1630122285,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,1,0,1630122285,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,1,0,1630122285,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,1,0,1630122285,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,1,0,1630122285,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,1,0,1630122285,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,1,0,1630122285,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,1,0,1630122285,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,1,0,1630122285,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,1,0,1630122285,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,1,0,1630122285,"~/0x02-shell_redirections/9-duplicate_last_line"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x02-shell_redirections/14-findthatword
+	*	1630135777	0
+	"	2	20
+	^	2	21
+	.	2	20
+	+	2	20
+
+> ~/.git/COMMIT_EDITMSG
+	*	1630135352	0
+	"	1	5
+	^	1	6
+	.	2	0
+	+	1	34
+	+	1	1
+	+	1	27
+	+	1	1
+	+	1	24
+	+	1	1
+	+	1	5
+	+	1	1
+	+	1	14
+	+	1	1
+	+	2	0
+	+	1	9
+	+	2	0
+	+	1	3
+	+	2	0
+	+	1	5
+	+	2	0
+	+	1	4
+	+	2	0
+	+	1	6
+	+	2	0
 
 > ~/0x02-shell_redirections/13-unique
 	*	1630135243	0
@@ -286,32 +320,6 @@
 	^	2	35
 	.	2	34
 	+	2	34
-
-> ~/.git/COMMIT_EDITMSG
-	*	1630122467	0
-	"	1	18
-	^	1	19
-	.	1	18
-	+	1	34
-	+	1	1
-	+	1	27
-	+	1	1
-	+	1	24
-	+	1	1
-	+	1	5
-	+	1	1
-	+	1	14
-	+	1	1
-	+	2	0
-	+	1	9
-	+	2	0
-	+	1	3
-	+	2	0
-	+	1	5
-	+	2	0
-	+	1	4
-	+	2	0
-	+	1	18
 
 > ~/0x02-shell_redirections/9-duplicate_last_line
 	*	1630122317	0
