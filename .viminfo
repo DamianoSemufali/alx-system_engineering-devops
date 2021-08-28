@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1630158828,,"wq"
+|2,0,1630159081,,"wq"
 :q
 |2,0,1630116603,,"q"
 :WQ
@@ -34,40 +34,88 @@
 |3,1,36,2,1,0,1629494919,"i"
 
 # File marks:
-'0  2  14  ~/0x02-shell_redirections/19-AZ
-|4,48,2,14,1630158828,"~/0x02-shell_redirections/19-AZ"
+'0  2  7  ~/0x02-shell_redirections/20-hiago
+|4,48,2,7,1630159081,"~/0x02-shell_redirections/20-hiago"
 '1  1  2  ~/.git/COMMIT_EDITMSG
-|4,49,1,2,1630158094,"~/.git/COMMIT_EDITMSG"
-'2  1  35  ~/0x02-shell_redirections/19-AZ
-|4,50,1,35,1630157976,"~/0x02-shell_redirections/19-AZ"
-'3  2  24  ~/0x02-shell_redirections/19-AZ
-|4,51,2,24,1630157976,"~/0x02-shell_redirections/19-AZ"
-'4  1  5  ~/.git/COMMIT_EDITMSG
-|4,52,1,5,1630157467,"~/.git/COMMIT_EDITMSG"
-'5  2  39  ~/0x02-shell_redirections/18-letteronly
-|4,53,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
-'6  1  3  ~/.git/COMMIT_EDITMSG
-|4,54,1,3,1630138049,"~/.git/COMMIT_EDITMSG"
-'7  1  3  ~/.git/COMMIT_EDITMSG
-|4,55,1,3,1630138049,"~/.git/COMMIT_EDITMSG"
-'8  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,56,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
+|4,49,1,2,1630158905,"~/.git/COMMIT_EDITMSG"
+'2  2  14  ~/0x02-shell_redirections/19-AZ
+|4,50,2,14,1630158828,"~/0x02-shell_redirections/19-AZ"
+'3  1  2  ~/.git/COMMIT_EDITMSG
+|4,51,1,2,1630158094,"~/.git/COMMIT_EDITMSG"
+'4  1  35  ~/0x02-shell_redirections/19-AZ
+|4,52,1,35,1630157976,"~/0x02-shell_redirections/19-AZ"
+'5  2  24  ~/0x02-shell_redirections/19-AZ
+|4,53,2,24,1630157976,"~/0x02-shell_redirections/19-AZ"
+'6  1  5  ~/.git/COMMIT_EDITMSG
+|4,54,1,5,1630157467,"~/.git/COMMIT_EDITMSG"
+'7  1  5  ~/.git/COMMIT_EDITMSG
+|4,55,1,5,1630157467,"~/.git/COMMIT_EDITMSG"
+'8  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,56,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
 '9  1  3  ~/.git/COMMIT_EDITMSG
-|4,57,1,3,1630137794,"~/.git/COMMIT_EDITMSG"
+|4,57,1,3,1630138049,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  2  7  ~/0x02-shell_redirections/20-hiago
+|4,39,2,7,1630159081,"~/0x02-shell_redirections/20-hiago"
+-'  1  0  ~/0x02-shell_redirections/20-hiago
+|4,39,1,0,1630159019,"~/0x02-shell_redirections/20-hiago"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1630158905,"~/.git/COMMIT_EDITMSG"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1630158905,"~/.git/COMMIT_EDITMSG"
 -'  2  14  ~/0x02-shell_redirections/19-AZ
 |4,39,2,14,1630158828,"~/0x02-shell_redirections/19-AZ"
+-'  2  14  ~/0x02-shell_redirections/19-AZ
+|4,39,2,14,1630158828,"~/0x02-shell_redirections/19-AZ"
+-'  2  14  ~/0x02-shell_redirections/19-AZ
+|4,39,2,14,1630158828,"~/0x02-shell_redirections/19-AZ"
+-'  2  14  ~/0x02-shell_redirections/19-AZ
+|4,39,2,14,1630158828,"~/0x02-shell_redirections/19-AZ"
+-'  1  35  ~/0x02-shell_redirections/19-AZ
+|4,39,1,35,1630158758,"~/0x02-shell_redirections/19-AZ"
+-'  1  35  ~/0x02-shell_redirections/19-AZ
+|4,39,1,35,1630158758,"~/0x02-shell_redirections/19-AZ"
+-'  1  35  ~/0x02-shell_redirections/19-AZ
+|4,39,1,35,1630158758,"~/0x02-shell_redirections/19-AZ"
 -'  1  35  ~/0x02-shell_redirections/19-AZ
 |4,39,1,35,1630158758,"~/0x02-shell_redirections/19-AZ"
 -'  1  2  ~/.git/COMMIT_EDITMSG
 |4,39,1,2,1630158094,"~/.git/COMMIT_EDITMSG"
 -'  1  2  ~/.git/COMMIT_EDITMSG
 |4,39,1,2,1630158094,"~/.git/COMMIT_EDITMSG"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1630158094,"~/.git/COMMIT_EDITMSG"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1630158094,"~/.git/COMMIT_EDITMSG"
 -'  2  24  ~/0x02-shell_redirections/19-AZ
 |4,39,2,24,1630157976,"~/0x02-shell_redirections/19-AZ"
 -'  2  24  ~/0x02-shell_redirections/19-AZ
 |4,39,2,24,1630157976,"~/0x02-shell_redirections/19-AZ"
+-'  2  24  ~/0x02-shell_redirections/19-AZ
+|4,39,2,24,1630157976,"~/0x02-shell_redirections/19-AZ"
+-'  2  24  ~/0x02-shell_redirections/19-AZ
+|4,39,2,24,1630157976,"~/0x02-shell_redirections/19-AZ"
+-'  2  24  ~/0x02-shell_redirections/19-AZ
+|4,39,2,24,1630157976,"~/0x02-shell_redirections/19-AZ"
+-'  2  24  ~/0x02-shell_redirections/19-AZ
+|4,39,2,24,1630157976,"~/0x02-shell_redirections/19-AZ"
+-'  2  24  ~/0x02-shell_redirections/19-AZ
+|4,39,2,24,1630157976,"~/0x02-shell_redirections/19-AZ"
+-'  2  24  ~/0x02-shell_redirections/19-AZ
+|4,39,2,24,1630157976,"~/0x02-shell_redirections/19-AZ"
+-'  1  0  ~/0x02-shell_redirections/19-AZ
+|4,39,1,0,1630157903,"~/0x02-shell_redirections/19-AZ"
+-'  1  0  ~/0x02-shell_redirections/19-AZ
+|4,39,1,0,1630157903,"~/0x02-shell_redirections/19-AZ"
+-'  1  0  ~/0x02-shell_redirections/19-AZ
+|4,39,1,0,1630157903,"~/0x02-shell_redirections/19-AZ"
+-'  1  0  ~/0x02-shell_redirections/19-AZ
+|4,39,1,0,1630157903,"~/0x02-shell_redirections/19-AZ"
+-'  1  0  ~/0x02-shell_redirections/19-AZ
+|4,39,1,0,1630157903,"~/0x02-shell_redirections/19-AZ"
+-'  1  0  ~/0x02-shell_redirections/19-AZ
+|4,39,1,0,1630157903,"~/0x02-shell_redirections/19-AZ"
 -'  1  0  ~/0x02-shell_redirections/19-AZ
 |4,39,1,0,1630157903,"~/0x02-shell_redirections/19-AZ"
 -'  1  0  ~/0x02-shell_redirections/19-AZ
@@ -80,6 +128,14 @@
 |4,39,1,5,1630157467,"~/.git/COMMIT_EDITMSG"
 -'  1  5  ~/.git/COMMIT_EDITMSG
 |4,39,1,5,1630157467,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630157467,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630157467,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630157467,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630157467,"~/.git/COMMIT_EDITMSG"
 -'  2  39  ~/0x02-shell_redirections/18-letteronly
 |4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
 -'  2  39  ~/0x02-shell_redirections/18-letteronly
@@ -112,163 +168,106 @@
 |4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
 -'  2  39  ~/0x02-shell_redirections/18-letteronly
 |4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
--'  1  0  ~/0x02-shell_redirections/18-letteronly
-|4,39,1,0,1630157300,"~/0x02-shell_redirections/18-letteronly"
--'  1  0  ~/0x02-shell_redirections/18-letteronly
-|4,39,1,0,1630157300,"~/0x02-shell_redirections/18-letteronly"
--'  1  0  ~/0x02-shell_redirections/18-letteronly
-|4,39,1,0,1630157300,"~/0x02-shell_redirections/18-letteronly"
--'  1  0  ~/0x02-shell_redirections/18-letteronly
-|4,39,1,0,1630157300,"~/0x02-shell_redirections/18-letteronly"
--'  1  0  ~/0x02-shell_redirections/18-letteronly
-|4,39,1,0,1630157300,"~/0x02-shell_redirections/18-letteronly"
--'  1  0  ~/0x02-shell_redirections/18-letteronly
-|4,39,1,0,1630157300,"~/0x02-shell_redirections/18-letteronly"
--'  1  0  ~/0x02-shell_redirections/18-letteronly
-|4,39,1,0,1630157300,"~/0x02-shell_redirections/18-letteronly"
--'  1  0  ~/0x02-shell_redirections/18-letteronly
-|4,39,1,0,1630157300,"~/0x02-shell_redirections/18-letteronly"
--'  1  0  ~/0x02-shell_redirections/18-letteronly
-|4,39,1,0,1630157300,"~/0x02-shell_redirections/18-letteronly"
--'  1  0  ~/0x02-shell_redirections/18-letteronly
-|4,39,1,0,1630157300,"~/0x02-shell_redirections/18-letteronly"
--'  1  0  ~/0x02-shell_redirections/18-letteronly
-|4,39,1,0,1630157300,"~/0x02-shell_redirections/18-letteronly"
--'  1  0  ~/0x02-shell_redirections/18-letteronly
-|4,39,1,0,1630157300,"~/0x02-shell_redirections/18-letteronly"
--'  1  0  ~/0x02-shell_redirections/18-letteronly
-|4,39,1,0,1630157300,"~/0x02-shell_redirections/18-letteronly"
--'  1  0  ~/0x02-shell_redirections/18-letteronly
-|4,39,1,0,1630157300,"~/0x02-shell_redirections/18-letteronly"
--'  1  0  ~/0x02-shell_redirections/18-letteronly
-|4,39,1,0,1630157300,"~/0x02-shell_redirections/18-letteronly"
--'  1  0  ~/0x02-shell_redirections/18-letteronly
-|4,39,1,0,1630157300,"~/0x02-shell_redirections/18-letteronly"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630138049,"~/.git/COMMIT_EDITMSG"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630138049,"~/.git/COMMIT_EDITMSG"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630138049,"~/.git/COMMIT_EDITMSG"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630138049,"~/.git/COMMIT_EDITMSG"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630138049,"~/.git/COMMIT_EDITMSG"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630138049,"~/.git/COMMIT_EDITMSG"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630138049,"~/.git/COMMIT_EDITMSG"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630138049,"~/.git/COMMIT_EDITMSG"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
--'  2  22  ~/0x02-shell_redirections/17-hidethisword
-|4,39,2,22,1630137945,"~/0x02-shell_redirections/17-hidethisword"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
+-'  2  39  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,39,1630157372,"~/0x02-shell_redirections/18-letteronly"
 
 # History of marks within files (newest to oldest):
 
-> ~/0x02-shell_redirections/19-AZ
-	*	1630158826	0
-	"	2	14
-	^	2	15
-	.	2	14
-	+	1	11
-	+	2	14
+> ~/0x02-shell_redirections/20-hiago
+	*	1630159079	0
+	"	2	7
+	^	2	8
+	.	2	7
+	+	2	7
 
 > ~/.git/COMMIT_EDITMSG
-	*	1630158093	0
+	*	1630158904	0
 	"	1	2
 	^	1	3
 	.	2	0
@@ -295,6 +294,14 @@
 	+	2	0
 	+	1	3
 	+	2	0
+
+> ~/0x02-shell_redirections/19-AZ
+	*	1630158826	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	1	11
+	+	2	14
 
 > ~/0x02-shell_redirections/18-letteronly
 	*	1630157369	0
