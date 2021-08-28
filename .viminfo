@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1630136572,,"wq"
+|2,0,1630137417,,"wq"
 :q
 |2,0,1630116603,,"q"
 :WQ
@@ -34,30 +34,40 @@
 |3,1,36,2,1,0,1629494919,"i"
 
 # File marks:
-'0  2  10  ~/0x02-shell_redirections/15-countthatword
-|4,48,2,10,1630136572,"~/0x02-shell_redirections/15-countthatword"
-'1  2  10  ~/0x02-shell_redirections/15-countthatword
-|4,49,2,10,1630136557,"~/0x02-shell_redirections/15-countthatword"
-'2  1  4  ~/.git/COMMIT_EDITMSG
-|4,50,1,4,1630136442,"~/.git/COMMIT_EDITMSG"
-'3  2  27  ~/0x02-shell_redirections/15-countthatword
-|4,51,2,27,1630136347,"~/0x02-shell_redirections/15-countthatword"
-'4  2  27  ~/0x02-shell_redirections/15-countthatword
-|4,52,2,27,1630136347,"~/0x02-shell_redirections/15-countthatword"
-'5  1  3  ~/.git/COMMIT_EDITMSG
-|4,53,1,3,1630136169,"~/.git/COMMIT_EDITMSG"
-'6  2  5  ~/0x02-shell_redirections/14-findthatword
-|4,54,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
-'7  1  3  ~/.git/COMMIT_EDITMSG
-|4,55,1,3,1630135902,"~/.git/COMMIT_EDITMSG"
-'8  1  3  ~/.git/COMMIT_EDITMSG
-|4,56,1,3,1630135902,"~/.git/COMMIT_EDITMSG"
-'9  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,57,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
+'0  2  6  ~/0x02-shell_redirections/15-countthatword
+|4,48,2,6,1630137417,"~/0x02-shell_redirections/15-countthatword"
+'1  1  4  ~/.git/COMMIT_EDITMSG
+|4,49,1,4,1630136659,"~/.git/COMMIT_EDITMSG"
+'2  2  10  ~/0x02-shell_redirections/15-countthatword
+|4,50,2,10,1630136572,"~/0x02-shell_redirections/15-countthatword"
+'3  2  10  ~/0x02-shell_redirections/15-countthatword
+|4,51,2,10,1630136557,"~/0x02-shell_redirections/15-countthatword"
+'4  2  10  ~/0x02-shell_redirections/15-countthatword
+|4,52,2,10,1630136557,"~/0x02-shell_redirections/15-countthatword"
+'5  1  4  ~/.git/COMMIT_EDITMSG
+|4,53,1,4,1630136442,"~/.git/COMMIT_EDITMSG"
+'6  2  27  ~/0x02-shell_redirections/15-countthatword
+|4,54,2,27,1630136347,"~/0x02-shell_redirections/15-countthatword"
+'7  2  27  ~/0x02-shell_redirections/15-countthatword
+|4,55,2,27,1630136347,"~/0x02-shell_redirections/15-countthatword"
+'8  2  27  ~/0x02-shell_redirections/15-countthatword
+|4,56,2,27,1630136347,"~/0x02-shell_redirections/15-countthatword"
+'9  2  27  ~/0x02-shell_redirections/15-countthatword
+|4,57,2,27,1630136347,"~/0x02-shell_redirections/15-countthatword"
 
 # Jumplist (newest first):
+-'  2  6  ~/0x02-shell_redirections/15-countthatword
+|4,39,2,6,1630137417,"~/0x02-shell_redirections/15-countthatword"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630136659,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630136659,"~/.git/COMMIT_EDITMSG"
 -'  2  10  ~/0x02-shell_redirections/15-countthatword
 |4,39,2,10,1630136572,"~/0x02-shell_redirections/15-countthatword"
+-'  2  10  ~/0x02-shell_redirections/15-countthatword
+|4,39,2,10,1630136572,"~/0x02-shell_redirections/15-countthatword"
+-'  2  10  ~/0x02-shell_redirections/15-countthatword
+|4,39,2,10,1630136557,"~/0x02-shell_redirections/15-countthatword"
 -'  2  10  ~/0x02-shell_redirections/15-countthatword
 |4,39,2,10,1630136557,"~/0x02-shell_redirections/15-countthatword"
 -'  1  4  ~/.git/COMMIT_EDITMSG
@@ -68,6 +78,18 @@
 |4,39,1,4,1630136442,"~/.git/COMMIT_EDITMSG"
 -'  1  4  ~/.git/COMMIT_EDITMSG
 |4,39,1,4,1630136442,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630136442,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630136442,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630136442,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630136442,"~/.git/COMMIT_EDITMSG"
+-'  2  27  ~/0x02-shell_redirections/15-countthatword
+|4,39,2,27,1630136347,"~/0x02-shell_redirections/15-countthatword"
+-'  2  27  ~/0x02-shell_redirections/15-countthatword
+|4,39,2,27,1630136347,"~/0x02-shell_redirections/15-countthatword"
 -'  2  27  ~/0x02-shell_redirections/15-countthatword
 |4,39,2,27,1630136347,"~/0x02-shell_redirections/15-countthatword"
 -'  2  27  ~/0x02-shell_redirections/15-countthatword
@@ -80,6 +102,32 @@
 |4,39,1,0,1630136303,"~/0x02-shell_redirections/15-countthatword"
 -'  1  0  ~/0x02-shell_redirections/15-countthatword
 |4,39,1,0,1630136303,"~/0x02-shell_redirections/15-countthatword"
+-'  1  0  ~/0x02-shell_redirections/15-countthatword
+|4,39,1,0,1630136303,"~/0x02-shell_redirections/15-countthatword"
+-'  1  0  ~/0x02-shell_redirections/15-countthatword
+|4,39,1,0,1630136303,"~/0x02-shell_redirections/15-countthatword"
+-'  1  0  ~/0x02-shell_redirections/15-countthatword
+|4,39,1,0,1630136303,"~/0x02-shell_redirections/15-countthatword"
+-'  1  0  ~/0x02-shell_redirections/15-countthatword
+|4,39,1,0,1630136303,"~/0x02-shell_redirections/15-countthatword"
+-'  1  0  ~/0x02-shell_redirections/15-countthatword
+|4,39,1,0,1630136303,"~/0x02-shell_redirections/15-countthatword"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630136169,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630136169,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630136169,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630136169,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630136169,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630136169,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630136169,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630136169,"~/.git/COMMIT_EDITMSG"
 -'  1  3  ~/.git/COMMIT_EDITMSG
 |4,39,1,3,1630136169,"~/.git/COMMIT_EDITMSG"
 -'  1  3  ~/.git/COMMIT_EDITMSG
@@ -160,114 +208,66 @@
 |4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
 -'  2  5  ~/0x02-shell_redirections/14-findthatword
 |4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630135902,"~/.git/COMMIT_EDITMSG"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630135902,"~/.git/COMMIT_EDITMSG"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630135902,"~/.git/COMMIT_EDITMSG"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630135902,"~/.git/COMMIT_EDITMSG"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630135902,"~/.git/COMMIT_EDITMSG"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630135902,"~/.git/COMMIT_EDITMSG"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630135902,"~/.git/COMMIT_EDITMSG"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630135902,"~/.git/COMMIT_EDITMSG"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630135902,"~/.git/COMMIT_EDITMSG"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630135902,"~/.git/COMMIT_EDITMSG"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630135902,"~/.git/COMMIT_EDITMSG"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630135902,"~/.git/COMMIT_EDITMSG"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630135902,"~/.git/COMMIT_EDITMSG"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630135902,"~/.git/COMMIT_EDITMSG"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630135902,"~/.git/COMMIT_EDITMSG"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630135902,"~/.git/COMMIT_EDITMSG"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
--'  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,39,2,20,1630135826,"~/0x02-shell_redirections/14-findthatword"
+-'  2  5  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
+-'  2  5  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
+-'  2  5  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
+-'  2  5  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
+-'  2  5  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
+-'  2  5  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
+-'  2  5  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
+-'  2  5  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
+-'  2  5  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
+-'  2  5  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
+-'  2  5  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
+-'  2  5  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
+-'  2  5  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
+-'  2  5  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
+-'  2  5  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
+-'  2  5  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
+-'  2  5  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
+-'  2  5  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
+-'  2  5  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
+-'  2  5  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
+-'  2  5  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
+-'  2  5  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
+-'  2  5  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
+-'  2  5  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,5,1630136096,"~/0x02-shell_redirections/14-findthatword"
 
 # History of marks within files (newest to oldest):
 
 > ~/0x02-shell_redirections/15-countthatword
-	*	1630136570	0
-	"	2	10
-	^	2	11
-	.	2	11
-	+	2	11
+	*	1630137416	0
+	"	2	6
+	^	2	7
+	.	2	7
+	+	2	7
 
 > ~/.git/COMMIT_EDITMSG
-	*	1630136441	0
+	*	1630136658	0
 	"	1	4
 	^	1	5
 	.	1	4
