@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1630204377,,"wq"
+|2,0,1630204586,,"wq"
 :q
 |2,0,1630116603,,"q"
 :WQ
@@ -34,36 +34,84 @@
 |3,1,36,2,1,0,1629494919,"i"
 
 # File marks:
-'0  2  6  ~/0x03-shell_variables_expansions/6-create_local_variable
-|4,48,2,6,1630204377,"~/0x03-shell_variables_expansions/6-create_local_variable"
-'1  1  4  ~/.git/COMMIT_EDITMSG
-|4,49,1,4,1630204268,"~/.git/COMMIT_EDITMSG"
-'2  2  2  ~/0x03-shell_variables_expansions/5-local_variables
-|4,50,2,2,1630204159,"~/0x03-shell_variables_expansions/5-local_variables"
-'3  1  10  ~/.git/COMMIT_EDITMSG
-|4,51,1,10,1630184439,"~/.git/COMMIT_EDITMSG"
-'4  2  7  ~/0x03-shell_variables_expansions/4-global_variables
-|4,52,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
-'5  1  4  ~/.git/COMMIT_EDITMSG
-|4,53,1,4,1630184204,"~/.git/COMMIT_EDITMSG"
-'6  1  4  ~/.git/COMMIT_EDITMSG
-|4,54,1,4,1630184204,"~/.git/COMMIT_EDITMSG"
-'7  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,55,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
+'0  2  22  ~/0x03-shell_variables_expansions/7-create_global_variable
+|4,48,2,22,1630204586,"~/0x03-shell_variables_expansions/7-create_global_variable"
+'1  1  2  ~/.git/COMMIT_EDITMSG
+|4,49,1,2,1630204501,"~/.git/COMMIT_EDITMSG"
+'2  2  6  ~/0x03-shell_variables_expansions/6-create_local_variable
+|4,50,2,6,1630204377,"~/0x03-shell_variables_expansions/6-create_local_variable"
+'3  1  4  ~/.git/COMMIT_EDITMSG
+|4,51,1,4,1630204268,"~/.git/COMMIT_EDITMSG"
+'4  2  2  ~/0x03-shell_variables_expansions/5-local_variables
+|4,52,2,2,1630204159,"~/0x03-shell_variables_expansions/5-local_variables"
+'5  1  10  ~/.git/COMMIT_EDITMSG
+|4,53,1,10,1630184439,"~/.git/COMMIT_EDITMSG"
+'6  1  10  ~/.git/COMMIT_EDITMSG
+|4,54,1,10,1630184439,"~/.git/COMMIT_EDITMSG"
+'7  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,55,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
 '8  1  4  ~/.git/COMMIT_EDITMSG
-|4,56,1,4,1630183930,"~/.git/COMMIT_EDITMSG"
+|4,56,1,4,1630184204,"~/.git/COMMIT_EDITMSG"
 '9  1  4  ~/.git/COMMIT_EDITMSG
-|4,57,1,4,1630183930,"~/.git/COMMIT_EDITMSG"
+|4,57,1,4,1630184204,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  2  22  ~/0x03-shell_variables_expansions/7-create_global_variable
+|4,39,2,22,1630204586,"~/0x03-shell_variables_expansions/7-create_global_variable"
+-'  1  0  ~/0x03-shell_variables_expansions/7-create_global_variable
+|4,39,1,0,1630204552,"~/0x03-shell_variables_expansions/7-create_global_variable"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1630204501,"~/.git/COMMIT_EDITMSG"
+-'  1  2  ~/.git/COMMIT_EDITMSG
+|4,39,1,2,1630204501,"~/.git/COMMIT_EDITMSG"
 -'  2  6  ~/0x03-shell_variables_expansions/6-create_local_variable
 |4,39,2,6,1630204377,"~/0x03-shell_variables_expansions/6-create_local_variable"
+-'  2  6  ~/0x03-shell_variables_expansions/6-create_local_variable
+|4,39,2,6,1630204377,"~/0x03-shell_variables_expansions/6-create_local_variable"
+-'  2  6  ~/0x03-shell_variables_expansions/6-create_local_variable
+|4,39,2,6,1630204377,"~/0x03-shell_variables_expansions/6-create_local_variable"
+-'  2  6  ~/0x03-shell_variables_expansions/6-create_local_variable
+|4,39,2,6,1630204377,"~/0x03-shell_variables_expansions/6-create_local_variable"
+-'  1  0  ~/0x03-shell_variables_expansions/6-create_local_variable
+|4,39,1,0,1630204338,"~/0x03-shell_variables_expansions/6-create_local_variable"
+-'  1  0  ~/0x03-shell_variables_expansions/6-create_local_variable
+|4,39,1,0,1630204338,"~/0x03-shell_variables_expansions/6-create_local_variable"
+-'  1  0  ~/0x03-shell_variables_expansions/6-create_local_variable
+|4,39,1,0,1630204338,"~/0x03-shell_variables_expansions/6-create_local_variable"
 -'  1  0  ~/0x03-shell_variables_expansions/6-create_local_variable
 |4,39,1,0,1630204338,"~/0x03-shell_variables_expansions/6-create_local_variable"
 -'  1  4  ~/.git/COMMIT_EDITMSG
 |4,39,1,4,1630204268,"~/.git/COMMIT_EDITMSG"
 -'  1  4  ~/.git/COMMIT_EDITMSG
 |4,39,1,4,1630204268,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630204268,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630204268,"~/.git/COMMIT_EDITMSG"
+-'  2  2  ~/0x03-shell_variables_expansions/5-local_variables
+|4,39,2,2,1630204159,"~/0x03-shell_variables_expansions/5-local_variables"
+-'  2  2  ~/0x03-shell_variables_expansions/5-local_variables
+|4,39,2,2,1630204159,"~/0x03-shell_variables_expansions/5-local_variables"
+-'  2  2  ~/0x03-shell_variables_expansions/5-local_variables
+|4,39,2,2,1630204159,"~/0x03-shell_variables_expansions/5-local_variables"
+-'  2  2  ~/0x03-shell_variables_expansions/5-local_variables
+|4,39,2,2,1630204159,"~/0x03-shell_variables_expansions/5-local_variables"
+-'  2  2  ~/0x03-shell_variables_expansions/5-local_variables
+|4,39,2,2,1630204159,"~/0x03-shell_variables_expansions/5-local_variables"
+-'  2  2  ~/0x03-shell_variables_expansions/5-local_variables
+|4,39,2,2,1630204159,"~/0x03-shell_variables_expansions/5-local_variables"
+-'  2  2  ~/0x03-shell_variables_expansions/5-local_variables
+|4,39,2,2,1630204159,"~/0x03-shell_variables_expansions/5-local_variables"
+-'  2  2  ~/0x03-shell_variables_expansions/5-local_variables
+|4,39,2,2,1630204159,"~/0x03-shell_variables_expansions/5-local_variables"
+-'  2  2  ~/0x03-shell_variables_expansions/5-local_variables
+|4,39,2,2,1630204159,"~/0x03-shell_variables_expansions/5-local_variables"
+-'  2  2  ~/0x03-shell_variables_expansions/5-local_variables
+|4,39,2,2,1630204159,"~/0x03-shell_variables_expansions/5-local_variables"
+-'  2  2  ~/0x03-shell_variables_expansions/5-local_variables
+|4,39,2,2,1630204159,"~/0x03-shell_variables_expansions/5-local_variables"
+-'  2  2  ~/0x03-shell_variables_expansions/5-local_variables
+|4,39,2,2,1630204159,"~/0x03-shell_variables_expansions/5-local_variables"
 -'  2  2  ~/0x03-shell_variables_expansions/5-local_variables
 |4,39,2,2,1630204159,"~/0x03-shell_variables_expansions/5-local_variables"
 -'  2  2  ~/0x03-shell_variables_expansions/5-local_variables
@@ -80,6 +128,38 @@
 |4,39,1,0,1630204147,"~/0x03-shell_variables_expansions/5-local_variables"
 -'  1  0  ~/0x03-shell_variables_expansions/5-local_variables
 |4,39,1,0,1630204147,"~/0x03-shell_variables_expansions/5-local_variables"
+-'  1  0  ~/0x03-shell_variables_expansions/5-local_variables
+|4,39,1,0,1630204147,"~/0x03-shell_variables_expansions/5-local_variables"
+-'  1  0  ~/0x03-shell_variables_expansions/5-local_variables
+|4,39,1,0,1630204147,"~/0x03-shell_variables_expansions/5-local_variables"
+-'  1  0  ~/0x03-shell_variables_expansions/5-local_variables
+|4,39,1,0,1630204147,"~/0x03-shell_variables_expansions/5-local_variables"
+-'  1  0  ~/0x03-shell_variables_expansions/5-local_variables
+|4,39,1,0,1630204147,"~/0x03-shell_variables_expansions/5-local_variables"
+-'  1  0  ~/0x03-shell_variables_expansions/5-local_variables
+|4,39,1,0,1630204147,"~/0x03-shell_variables_expansions/5-local_variables"
+-'  1  0  ~/0x03-shell_variables_expansions/5-local_variables
+|4,39,1,0,1630204147,"~/0x03-shell_variables_expansions/5-local_variables"
+-'  1  0  ~/0x03-shell_variables_expansions/5-local_variables
+|4,39,1,0,1630204147,"~/0x03-shell_variables_expansions/5-local_variables"
+-'  1  0  ~/0x03-shell_variables_expansions/5-local_variables
+|4,39,1,0,1630204147,"~/0x03-shell_variables_expansions/5-local_variables"
+-'  1  0  ~/0x03-shell_variables_expansions/5-local_variables
+|4,39,1,0,1630204147,"~/0x03-shell_variables_expansions/5-local_variables"
+-'  1  0  ~/0x03-shell_variables_expansions/5-local_variables
+|4,39,1,0,1630204147,"~/0x03-shell_variables_expansions/5-local_variables"
+-'  1  0  ~/0x03-shell_variables_expansions/5-local_variables
+|4,39,1,0,1630204147,"~/0x03-shell_variables_expansions/5-local_variables"
+-'  1  0  ~/0x03-shell_variables_expansions/5-local_variables
+|4,39,1,0,1630204147,"~/0x03-shell_variables_expansions/5-local_variables"
+-'  1  10  ~/.git/COMMIT_EDITMSG
+|4,39,1,10,1630184439,"~/.git/COMMIT_EDITMSG"
+-'  1  10  ~/.git/COMMIT_EDITMSG
+|4,39,1,10,1630184439,"~/.git/COMMIT_EDITMSG"
+-'  1  10  ~/.git/COMMIT_EDITMSG
+|4,39,1,10,1630184439,"~/.git/COMMIT_EDITMSG"
+-'  1  10  ~/.git/COMMIT_EDITMSG
+|4,39,1,10,1630184439,"~/.git/COMMIT_EDITMSG"
 -'  1  10  ~/.git/COMMIT_EDITMSG
 |4,39,1,10,1630184439,"~/.git/COMMIT_EDITMSG"
 -'  1  10  ~/.git/COMMIT_EDITMSG
@@ -120,157 +200,77 @@
 |4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
 -'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
 |4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
--'  1  0  ~/0x03-shell_variables_expansions/4-global_variables
-|4,39,1,0,1630184254,"~/0x03-shell_variables_expansions/4-global_variables"
--'  1  0  ~/0x03-shell_variables_expansions/4-global_variables
-|4,39,1,0,1630184254,"~/0x03-shell_variables_expansions/4-global_variables"
--'  1  0  ~/0x03-shell_variables_expansions/4-global_variables
-|4,39,1,0,1630184254,"~/0x03-shell_variables_expansions/4-global_variables"
--'  1  0  ~/0x03-shell_variables_expansions/4-global_variables
-|4,39,1,0,1630184254,"~/0x03-shell_variables_expansions/4-global_variables"
--'  1  0  ~/0x03-shell_variables_expansions/4-global_variables
-|4,39,1,0,1630184254,"~/0x03-shell_variables_expansions/4-global_variables"
--'  1  0  ~/0x03-shell_variables_expansions/4-global_variables
-|4,39,1,0,1630184254,"~/0x03-shell_variables_expansions/4-global_variables"
--'  1  0  ~/0x03-shell_variables_expansions/4-global_variables
-|4,39,1,0,1630184254,"~/0x03-shell_variables_expansions/4-global_variables"
--'  1  0  ~/0x03-shell_variables_expansions/4-global_variables
-|4,39,1,0,1630184254,"~/0x03-shell_variables_expansions/4-global_variables"
--'  1  0  ~/0x03-shell_variables_expansions/4-global_variables
-|4,39,1,0,1630184254,"~/0x03-shell_variables_expansions/4-global_variables"
--'  1  0  ~/0x03-shell_variables_expansions/4-global_variables
-|4,39,1,0,1630184254,"~/0x03-shell_variables_expansions/4-global_variables"
--'  1  0  ~/0x03-shell_variables_expansions/4-global_variables
-|4,39,1,0,1630184254,"~/0x03-shell_variables_expansions/4-global_variables"
--'  1  0  ~/0x03-shell_variables_expansions/4-global_variables
-|4,39,1,0,1630184254,"~/0x03-shell_variables_expansions/4-global_variables"
--'  1  0  ~/0x03-shell_variables_expansions/4-global_variables
-|4,39,1,0,1630184254,"~/0x03-shell_variables_expansions/4-global_variables"
--'  1  0  ~/0x03-shell_variables_expansions/4-global_variables
-|4,39,1,0,1630184254,"~/0x03-shell_variables_expansions/4-global_variables"
--'  1  0  ~/0x03-shell_variables_expansions/4-global_variables
-|4,39,1,0,1630184254,"~/0x03-shell_variables_expansions/4-global_variables"
--'  1  0  ~/0x03-shell_variables_expansions/4-global_variables
-|4,39,1,0,1630184254,"~/0x03-shell_variables_expansions/4-global_variables"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630184204,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630184204,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630184204,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630184204,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630184204,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630184204,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630184204,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630184204,"~/.git/COMMIT_EDITMSG"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
--'  2  34  ~/0x03-shell_variables_expansions/3-paths
-|4,39,2,34,1630184142,"~/0x03-shell_variables_expansions/3-paths"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
+-'  2  7  ~/0x03-shell_variables_expansions/4-global_variables
+|4,39,2,7,1630184288,"~/0x03-shell_variables_expansions/4-global_variables"
 
 # History of marks within files (newest to oldest):
 
-> ~/0x03-shell_variables_expansions/6-create_local_variable
-	*	1630204376	0
-	"	2	6
-	^	2	7
-	.	2	6
-	+	2	6
+> ~/0x03-shell_variables_expansions/7-create_global_variable
+	*	1630204585	0
+	"	2	22
+	^	2	23
+	.	2	22
+	+	2	22
 
 > ~/.git/COMMIT_EDITMSG
-	*	1630204267	0
-	"	1	4
-	^	1	5
-	.	1	4
+	*	1630204499	0
+	"	1	2
+	^	1	3
+	.	1	2
 	+	1	34
 	+	1	1
 	+	1	27
@@ -298,7 +298,14 @@
 	+	2	0
 	+	1	5
 	+	2	0
-	+	1	4
+	+	1	2
+
+> ~/0x03-shell_variables_expansions/6-create_local_variable
+	*	1630204376	0
+	"	2	6
+	^	2	7
+	.	2	6
+	+	2	6
 
 > ~/0x03-shell_variables_expansions/5-local_variables
 	*	1630204158	0
